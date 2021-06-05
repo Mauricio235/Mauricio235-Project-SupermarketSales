@@ -1,0 +1,1001 @@
+"","ID","Filial","Cidade","Tipo de consumidor","Gênero","Linha de produto","Preço Unitário","Quantidade","Imposto","Total","Data","Hora","Pagamento","Porcentagem de renda","Avaliação"
+"1","750-67-8428","A","Yangon","Membro","Feminino","Saúde e beleza",396.6039,7,1388.11365,3037.6423,"01/05/2019","13:08","Carteira eletrônica",261.415,9.1
+"2","226-31-3081","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",81.1368,5,20.2842,409.504,"03/08/2019","10:29","Dinheiro",3.82,9.6
+"3","631-41-3108","A","Yangon","Normal","Masculino","Lar e estilo de vida",246.0123,7,861.04305,1884.2411,"03/03/2019","13:23","Cartão de crédito",162.155,7.4
+"4","123-19-1176","A","Yangon","Membro","Masculino","Saúde e beleza",309.1482,8,123.65928,2496.4736,"1/27/2019","20:33","Carteira eletrônica",23.288,8.4
+"5","373-73-7910","A","Yangon","Normal","Masculino","Viagens e sports",458.3061,7,1604.07135,3510.2277,"02/08/2019","10:37","Carteira eletrônica",302.085,5.3
+"6","699-14-3026","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",453.4209,7,1586.97315,3472.8113,"3/25/2019","18:30","Carteira eletrônica",298.865,4.1
+"7","355-53-5943","A","Yangon","Membro","Feminino","Acessórios eletrônicos",365.5404,6,109.66212,2213.8944,"2/25/2019","14:36","Carteira eletrônica",20.652,5.8
+"8","315-22-5665","C","Naypyitaw","Normal","Feminino","Lar e estilo de vida",390.6036,10,195.3018,3942.816,"2/24/2019","11:38","Carteira eletrônica",36.78,8
+"9","665-32-9167","A","Yangon","Membro","Feminino","Saúde e beleza",192.5406,2,19.25406,388.7072,"01/10/2019","17:15","Cartão de crédito",3.626,7.2
+"10","692-92-5582","B","Mandalay","Membro","Feminino","Acessórios de moda",291.2004,3,43.68006,881.8272,"2/20/2019","13:27","Cartão de crédito",8.226,5.9
+"11","351-62-0822","B","Mandalay","Membro","Feminino","Acessórios de moda",76.8888,4,15.37776,310.4512,"02/06/2019","18:07","Carteira eletrônica",2.896,4.5
+"12","529-56-3974","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",135.4581,4,27.09162,546.9344,"03/09/2019","17:03","Dinheiro",5.102,6.8
+"13","365-64-0515","A","Yangon","Normal","Feminino","Acessórios eletrônicos",249.3045,5,623.26125,1363.8975,"02/12/2019","10:25","Carteira eletrônica",117.375,7.1
+"14","252-56-2699","A","Yangon","Normal","Masculino","Acessórios de moda",229.3389,10,114.66945,2314.984,"02/07/2019","16:48","Carteira eletrônica",21.595,8.2
+"15","829-34-3910","A","Yangon","Normal","Feminino","Saúde e beleza",379.0278,10,189.5139,3825.968,"3/29/2019","19:21","Dinheiro",35.69,5.7
+"16","299-46-1805","B","Mandalay","Membro","Feminino","Viagens e sports",497.6532,6,149.29596,3014.0352,"1/15/2019","16:19","Dinheiro",28.116,4.5
+"17","656-95-9349","A","Yangon","Membro","Feminino","Saúde e beleza",366.0183,7,1281.06405,2803.3831,"03/11/2019","11:03","Cartão de crédito",241.255,4.6
+"18","765-26-6951","A","Yangon","Normal","Masculino","Viagens e sports",385.5591,6,115.66773,2335.1376,"01/01/2019","10:39","Cartão de crédito",21.783,6.9
+"19","329-62-1586","A","Yangon","Normal","Masculino","Acessórios de moda",290.2977,3,435.44655,952.8981,"1/21/2019","18:00","Cartão de crédito",82.005,8.6
+"20","319-50-3348","B","Mandalay","Normal","Feminino","Lar e estilo de vida",213.993,2,21.3993,432.016,"03/11/2019","15:30","Carteira eletrônica",4.03,4.4
+"21","300-71-4605","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",456.8724,5,114.2181,2305.872,"2/25/2019","11:24","Carteira eletrônica",21.51,4.8
+"22","371-85-5789","B","Mandalay","Normal","Masculino","Saúde e beleza",467.1738,3,70.07607,1414.7184,"03/05/2019","10:40","Carteira eletrônica",13.197,5.1
+"23","273-16-6619","B","Mandalay","Normal","Masculino","Lar e estilo de vida",176.292,2,17.6292,355.904,"3/15/2019","12:20","Cartão de crédito",3.32,4.4
+"24","636-48-8204","A","Yangon","Normal","Masculino","Acessórios eletrônicos",183.5136,5,45.8784,926.208,"2/17/2019","11:15","Carteira eletrônica",8.64,9.9
+"25","549-59-1358","A","Yangon","Membro","Masculino","Viagens e sports",470.6253,3,705.93795,1544.8209,"03/02/2019","17:36","Carteira eletrônica",132.945,6
+"26","227-03-5010","A","Yangon","Membro","Feminino","Lar e estilo de vida",279.2529,8,111.70116,2255.0592,"3/22/2019","19:20","Cartão de crédito",21.036,8.5
+"27","649-29-6775","B","Mandalay","Normal","Masculino","Acessórios de moda",177.9912,1,8.89956,179.6672,"02/08/2019","15:31","Dinheiro",1.676,6.7
+"28","189-17-4241","A","Yangon","Normal","Feminino","Acessórios de moda",465.5277,2,46.55277,939.8224,"03/10/2019","12:17","Cartão de crédito",8.767,7.7
+"29","145-94-9061","B","Mandalay","Normal","Feminino","Acessórios de moda",469.1916,5,117.2979,2368.048,"1/25/2019","19:48","Dinheiro",22.09,9.6
+"30","848-62-7243","A","Yangon","Normal","Masculino","Saúde e beleza",132.1659,9,594.74655,1301.4981,"3/15/2019","15:36","Dinheiro",112.005,7.4
+"31","871-79-8483","B","Mandalay","Normal","Masculino","Acessórios de moda",499.8303,5,1249.57575,2734.4765,"2/25/2019","19:39","Cartão de crédito",235.325,4.8
+"32","149-71-6266","B","Mandalay","Membro","Masculino","Viagens e sports",414.5517,9,1865.48265,4082.2803,"1/28/2019","12:43","Dinheiro",351.315,4.5
+"33","640-49-2076","B","Mandalay","Normal","Masculino","Viagens e sports",444.8718,8,177.94872,3592.4864,"01/10/2019","14:49","Dinheiro",33.512,5.1
+"34","595-11-5460","A","Yangon","Normal","Masculino","Saúde e beleza",512.8398,2,51.28398,1035.3376,"3/15/2019","10:12","Cartão de crédito",9.658,5.1
+"35","183-56-6882","C","Naypyitaw","Membro","Feminino","Acessórios de moda",527.9202,4,105.58404,2131.5648,"02/06/2019","10:42","Carteira eletrônica",19.884,7.5
+"36","232-16-2483","C","Naypyitaw","Membro","Feminino","Viagens e sports",361.7172,1,18.08586,365.1232,"01/07/2019","12:28","Carteira eletrônica",3.406,6.8
+"37","129-29-8530","A","Yangon","Membro","Masculino","Viagens e sports",332.5122,5,83.12805,1678.216,"03/10/2019","19:15","Carteira eletrônica",15.655,7
+"38","272-65-1806","A","Yangon","Normal","Feminino","Acessórios eletrônicos",323.2728,9,145.47276,2936.8512,"1/15/2019","17:17","Carteira eletrônica",27.396,4.7
+"39","333-73-7901","C","Naypyitaw","Normal","Feminino","Saúde e beleza",291.6252,8,116.65008,2354.9696,"3/23/2019","13:24","Carteira eletrônica",21.968,7.6
+"40","777-82-7220","B","Mandalay","Membro","Masculino","Lar e estilo de vida",159.9372,8,63.97488,1291.5456,"03/03/2019","13:01","Dinheiro",12.048,7.7
+"41","280-35-5823","B","Mandalay","Membro","Feminino","Lar e estilo de vida",460.4832,1,23.02416,464.8192,"1/17/2019","18:45","Carteira eletrônica",4.336,7.9
+"42","554-53-8700","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",297.9441,2,29.79441,601.4992,"02/02/2019","10:11","Dinheiro",5.611,6.3
+"43","354-25-5821","B","Mandalay","Membro","Feminino","Viagens e sports",367.0272,6,110.10816,2222.8992,"02/08/2019","13:03","Dinheiro",20.736,5.6
+"44","228-96-1411","C","Naypyitaw","Membro","Feminino","Acessórios de moda",524.097,8,209.6388,4232.256,"03/04/2019","20:39","Dinheiro",39.48,7.6
+"45","617-15-4209","C","Naypyitaw","Membro","Masculino","Saúde e beleza",81.6147,2,8.16147,164.7664,"3/16/2019","19:47","Dinheiro",1.537,7.2
+"46","132-32-9879","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",498.9276,4,99.78552,2014.5024,"03/09/2019","18:00","Dinheiro",18.792,9.5
+"47","370-41-7321","B","Mandalay","Membro","Masculino","Saúde e beleza",301.0239,9,1354.60755,2964.3201,"2/27/2019","17:24","Cartão de crédito",255.105,8.4
+"48","727-46-3608","B","Mandalay","Membro","Feminino","Acessórios de moda",106.2531,9,478.13895,1046.3229,"02/06/2019","15:47","Carteira eletrônica",90.045,4.1
+"49","669-54-1719","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",100.5183,6,30.15549,608.7888,"02/10/2019","12:45","Cartão de crédito",5.679,8.1
+"50","574-22-5561","C","Naypyitaw","Membro","Feminino","Acessórios de moda",438.7653,10,219.38265,4428.968,"3/19/2019","17:08","Carteira eletrônica",41.315,7.9
+"51","326-78-5178","C","Naypyitaw","Membro","Masculino","Acessórios de moda",485.334,7,169.8669,3429.328,"02/03/2019","10:19","Dinheiro",31.99,9.5
+"52","162-48-8011","A","Yangon","Membro","Feminino","Acessórios de moda",236.7729,5,591.93225,1295.3395,"02/10/2019","15:10","Dinheiro",111.475,8.5
+"53","616-24-2851","B","Mandalay","Membro","Feminino","Acessórios de moda",94.8897,4,18.97794,383.1328,"3/22/2019","14:42","Carteira eletrônica",3.574,6.5
+"54","778-71-5554","C","Naypyitaw","Membro","Masculino","Acessórios de moda",81.9333,1,4.096665,82.7048,"1/25/2019","15:46","Cartão de crédito",0.7715,6.1
+"55","242-55-6721","B","Mandalay","Normal","Masculino","Lar e estilo de vida",85.8096,2,8.58096,173.2352,"03/07/2019","11:49","Carteira eletrônica",1.616,6.5
+"56","399-46-5918","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",456.5538,8,182.62152,3686.8224,"2/28/2019","19:01","Dinheiro",34.392,8.2
+"57","106-35-6779","A","Yangon","Membro","Masculino","Lar e estilo de vida",235.4454,2,23.54454,475.3248,"3/27/2019","11:26","Dinheiro",4.434,5.8
+"58","635-40-6220","A","Yangon","Normal","Masculino","Saúde e beleza",475.776,8,190.3104,3842.048,"02/07/2019","11:28","Carteira eletrônica",35.84,6.6
+"59","817-48-8732","A","Yangon","Membro","Feminino","Lar e estilo de vida",384.1785,10,192.08925,3877.96,"1/20/2019","15:55","Dinheiro",36.175,5.4
+"60","120-06-4233","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",162.5391,6,48.76173,984.4176,"03/12/2019","20:36","Dinheiro",9.183,9.3
+"61","285-68-5083","C","Naypyitaw","Membro","Feminino","Viagens e sports",131.3694,3,19.70541,397.8192,"2/15/2019","17:47","Cartão de crédito",3.711,10
+"62","803-83-5989","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",295.9263,6,88.77789,1792.2768,"2/24/2019","10:55","Carteira eletrônica",16.719,7
+"63","347-34-2234","B","Mandalay","Membro","Feminino","Viagens e sports",292.4217,9,1315.89765,2879.6103,"02/03/2019","13:40","Carteira eletrônica",247.815,10
+"64","199-75-8169","A","Yangon","Membro","Masculino","Viagens e sports",83.9511,10,41.97555,847.416,"03/06/2019","12:27","Cartão de crédito",7.905,8.6
+"65","853-23-2453","B","Mandalay","Membro","Masculino","Saúde e beleza",402.1794,4,80.43588,1623.8656,"2/14/2019","14:35","Dinheiro",15.148,7.6
+"66","877-22-3308","A","Yangon","Membro","Masculino","Saúde e beleza",84.2697,10,42.13485,850.632,"3/13/2019","16:40","Dinheiro",7.935,5.8
+"67","838-78-4295","C","Naypyitaw","Normal","Feminino","Saúde e beleza",177.7257,2,17.77257,358.7984,"02/10/2019","15:43","Carteira eletrônica",3.347,6.7
+"68","109-28-2512","B","Mandalay","Membro","Feminino","Acessórios de moda",518.3091,6,155.49273,3139.1376,"01/07/2019","15:01","Carteira eletrônica",29.283,9.9
+"69","232-11-3025","A","Yangon","Normal","Masculino","Viagens e sports",418.2687,10,209.13435,4222.072,"1/24/2019","10:04","Dinheiro",39.385,6.4
+"70","382-03-4532","A","Yangon","Membro","Feminino","Saúde e beleza",97.3323,1,4.866615,98.2488,"02/02/2019","18:50","Dinheiro",0.9165,4.3
+"71","393-65-2792","C","Naypyitaw","Normal","Masculino","Acessórios de moda",475.1388,10,237.5694,4796.128,"01/06/2019","12:46","Cartão de crédito",44.74,9.6
+"72","796-12-2025","C","Naypyitaw","Normal","Masculino","Acessórios de moda",329.8572,10,164.9286,3329.632,"02/11/2019","16:19","Dinheiro",31.06,5.9
+"73","510-95-6347","B","Mandalay","Membro","Feminino","Acessórios de moda",257.6412,3,38.64618,780.2016,"03/05/2019","18:17","Carteira eletrônica",7.278,4
+"74","841-35-6630","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",403.0821,6,120.92463,2441.2656,"03/09/2019","18:21","Dinheiro",22.773,8.7
+"75","287-21-9091","A","Yangon","Normal","Masculino","Lar e estilo de vida",396.4977,9,1784.23965,3904.4943,"1/22/2019","10:55","Carteira eletrônica",336.015,9.4
+"76","732-94-0499","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",221.1615,10,110.58075,2232.44,"1/13/2019","17:04","Cartão de crédito",20.825,5.4
+"77","263-10-3913","C","Naypyitaw","Membro","Masculino","Acessórios de moda",260.4024,9,117.18108,2365.6896,"01/09/2019","14:20","Cartão de crédito",22.068,8.6
+"78","381-20-0914","A","Yangon","Membro","Feminino","Acessórios de moda",106.2531,9,478.13895,1046.3229,"01/12/2019","15:48","Cartão de crédito",90.045,5.7
+"79","829-49-1914","C","Naypyitaw","Membro","Feminino","Acessórios de moda",415.8261,10,207.91305,4197.416,"03/05/2019","16:24","Carteira eletrônica",39.155,6.6
+"80","756-01-7507","C","Naypyitaw","Normal","Feminino","Saúde e beleza",108.2178,5,27.05445,546.184,"1/22/2019","18:56","Dinheiro",5.095,6
+"81","870-72-4431","C","Naypyitaw","Normal","Feminino","Saúde e beleza",526.6989,6,158.00967,3189.9504,"1/21/2019","14:42","Cartão de crédito",29.757,5.5
+"82","847-38-7188","B","Mandalay","Normal","Feminino","Acessórios de moda",513.3708,3,77.00562,1554.6144,"1/26/2019","19:56","Carteira eletrônica",14.502,6.4
+"83","480-63-2856","C","Naypyitaw","Normal","Masculino","Acessórios de moda",102.2175,8,40.887,825.44,"1/23/2019","18:37","Carteira eletrônica",7.7,6.6
+"84","787-56-0757","C","Naypyitaw","Membro","Feminino","Acessórios de moda",426.7116,4,85.34232,1722.9184,"2/23/2019","18:45","Cartão de crédito",16.072,8.3
+"85","360-39-5055","C","Naypyitaw","Membro","Masculino","Viagens e sports",259.7121,5,649.28025,1420.8355,"03/09/2019","10:17","Dinheiro",122.275,6.6
+"86","730-50-9884","C","Naypyitaw","Normal","Feminino","Viagens e sports",441.0486,7,154.36701,3116.4112,"03/05/2019","14:31","Carteira eletrônica",29.071,4
+"87","362-58-8315","C","Naypyitaw","Normal","Masculino","Acessórios de moda",406.3212,5,101.5803,2050.736,"3/25/2019","10:23","Dinheiro",19.13,9.9
+"88","633-44-8566","A","Yangon","Membro","Masculino","Acessórios de moda",262.2078,7,91.77273,1852.7376,"3/27/2019","20:35","Cartão de crédito",17.283,7.3
+"89","504-35-8843","A","Yangon","Normal","Masculino","Viagens e sports",225.5157,1,112.75785,246.7507,"01/02/2019","16:57","Dinheiro",21.235,5.7
+"90","318-68-5053","B","Mandalay","Normal","Feminino","Saúde e beleza",408.8169,6,122.64507,2475.9984,"2/27/2019","17:55","Dinheiro",23.097,6.1
+"91","565-80-5980","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",251.5878,4,50.31756,1015.8272,"1/23/2019","10:25","Dinheiro",9.476,7.1
+"92","225-32-0908","C","Naypyitaw","Normal","Feminino","Viagens e sports",238.2066,10,119.1033,2404.496,"1/26/2019","19:54","Carteira eletrônica",22.43,8.2
+"93","873-51-0671","A","Yangon","Membro","Feminino","Viagens e sports",116.7138,7,40.84983,824.6896,"01/10/2019","16:42","Carteira eletrônica",7.693,5.1
+"94","152-08-9985","B","Mandalay","Membro","Masculino","Saúde e beleza",341.7516,9,153.78822,3104.7264,"03/12/2019","12:09","Cartão de crédito",28.962,8.6
+"95","512-91-0811","C","Naypyitaw","Normal","Masculino","Saúde e beleza",476.5725,1,238.28625,521.4475,"02/06/2019","20:05","Cartão de crédito",44.875,6.6
+"96","594-34-4444","A","Yangon","Normal","Masculino","Acessórios eletrônicos",515.9196,1,25.79598,520.7776,"03/08/2019","20:38","Carteira eletrônica",4.858,7.2
+"97","766-85-7061","B","Mandalay","Normal","Masculino","Saúde e beleza",466.5897,10,233.29485,4709.832,"3/29/2019","10:25","Carteira eletrônica",43.935,5.1
+"98","871-39-9221","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",66.1095,6,19.83285,400.392,"02/09/2019","13:11","Dinheiro",3.735,4.1
+"99","865-92-6136","A","Yangon","Normal","Masculino","Acessórios de moda",280.1025,3,420.15375,919.4325,"3/23/2019","10:16","Carteira eletrônica",79.125,9.3
+"100","733-01-9107","B","Mandalay","Normal","Masculino","Lar e estilo de vida",439.137,6,131.7411,2659.632,"03/05/2019","18:14","Dinheiro",24.81,7.4
+"101","163-56-7055","C","Naypyitaw","Membro","Masculino","Acessórios de moda",258.6501,1,129.32505,283.0051,"3/26/2019","19:20","Dinheiro",24.355,4.1
+"102","189-98-2939","C","Naypyitaw","Normal","Masculino","Acessórios de moda",417.1005,9,1876.95225,4107.3795,"03/01/2019","13:22","Dinheiro",353.475,7.2
+"103","551-21-3069","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",122.5017,9,551.25765,1206.3303,"02/01/2019","11:27","Dinheiro",103.815,4.9
+"104","212-62-1842","A","Yangon","Normal","Masculino","Acessórios de moda",309.3606,6,92.80818,1873.6416,"3/28/2019","16:44","Dinheiro",17.478,9.9
+"105","716-39-1409","B","Mandalay","Normal","Masculino","Saúde e beleza",161.1585,7,564.05475,1234.3345,"3/19/2019","18:19","Dinheiro",106.225,8
+"106","704-48-3927","A","Yangon","Membro","Masculino","Acessórios eletrônicos",470.8377,10,235.41885,4752.712,"01/12/2019","14:50","Carteira eletrônica",44.335,7.3
+"107","628-34-3388","C","Naypyitaw","Normal","Masculino","Acessórios de moda",145.3878,6,43.61634,880.5408,"01/05/2019","20:54","Cartão de crédito",8.214,7.9
+"108","630-74-5166","A","Yangon","Normal","Masculino","Viagens e sports",329.9103,6,98.97309,1998.1008,"3/22/2019","20:19","Dinheiro",18.639,7.4
+"109","588-01-7461","C","Naypyitaw","Normal","Feminino","Acessórios de moda",180.4338,9,81.19521,1639.1952,"3/24/2019","10:43","Dinheiro",15.291,4.2
+"110","861-77-0145","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",435.2607,10,217.63035,4393.592,"03/03/2019","14:30","Dinheiro",40.985,9.2
+"111","479-26-8945","B","Mandalay","Membro","Feminino","Viagens e sports",87.5619,2,8.75619,176.7728,"02/05/2019","11:32","Carteira eletrônica",1.649,4.6
+"112","210-67-5886","C","Naypyitaw","Membro","Feminino","Saúde e beleza",521.4951,3,782.24265,1711.8003,"02/05/2019","10:41","Cartão de crédito",147.315,7.8
+"113","227-78-1148","B","Mandalay","Normal","Feminino","Acessórios de moda",386.7804,7,135.37314,2732.9568,"2/15/2019","12:44","Dinheiro",25.494,8.4
+"114","645-44-1170","A","Yangon","Membro","Masculino","Lar e estilo de vida",308.3517,9,1387.58265,3036.4803,"1/19/2019","20:07","Carteira eletrônica",261.315,4.3
+"115","237-01-6122","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",428.9949,9,1930.47705,4224.5091,"02/01/2019","20:31","Cartão de crédito",363.555,9.5
+"116","225-98-1496","C","Naypyitaw","Normal","Feminino","Acessórios de moda",143.4762,3,21.52143,434.4816,"03/02/2019","13:01","Cartão de crédito",4.053,7.1
+"117","291-32-1427","B","Mandalay","Membro","Masculino","Acessórios de moda",116.5014,5,29.12535,587.992,"03/05/2019","12:29","Carteira eletrônica",5.485,5.3
+"118","659-65-8956","B","Mandalay","Membro","Masculino","Acessórios de moda",272.7216,1,13.63608,275.2896,"1/16/2019","15:26","Carteira eletrônica",2.568,5.2
+"119","642-32-2990","A","Yangon","Normal","Feminino","Acessórios de moda",58.1976,10,29.0988,587.456,"02/02/2019","20:48","Carteira eletrônica",5.48,6
+"120","378-24-2715","B","Mandalay","Normal","Masculino","Lar e estilo de vida",283.7664,2,28.37664,572.8768,"1/20/2019","20:38","Carteira eletrônica",5.344,4.1
+"121","638-60-7125","A","Yangon","Normal","Feminino","Acessórios eletrônicos",528.6636,8,211.46544,4269.1328,"2/14/2019","17:03","Cartão de crédito",39.824,5.2
+"122","659-36-1684","C","Naypyitaw","Membro","Masculino","Viagens e sports",303.3072,7,106.15752,2143.1424,"01/12/2019","12:02","Cartão de crédito",19.992,6.5
+"123","219-22-9386","B","Mandalay","Membro","Masculino","Viagens e sports",530.7876,9,238.85442,4822.0704,"03/09/2019","17:26","Cartão de crédito",44.982,4.2
+"124","336-78-2147","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",339.3621,8,135.74484,2740.4608,"3/13/2019","19:52","Cartão de crédito",25.564,4.6
+"125","268-27-6179","B","Mandalay","Membro","Feminino","Acessórios de moda",299.8557,8,119.94228,2421.4336,"03/09/2019","14:57","Carteira eletrônica",22.588,7.3
+"126","668-90-8900","A","Yangon","Normal","Feminino","Lar e estilo de vida",497.4939,7,1741.22865,3810.3723,"03/10/2019","18:44","Cartão de crédito",327.915,4.5
+"127","870-54-3162","A","Yangon","Normal","Feminino","Viagens e sports",171.2475,5,428.11875,936.8625,"1/27/2019","13:26","Dinheiro",80.625,9
+"128","189-08-9157","C","Naypyitaw","Normal","Feminino","Acessórios de moda",168.4863,9,758.18835,1659.1617,"01/08/2019","16:17","Cartão de crédito",142.785,5.9
+"129","663-86-9076","C","Naypyitaw","Membro","Feminino","Acessórios de moda",363.9474,8,145.57896,2938.9952,"01/08/2019","15:57","Carteira eletrônica",27.416,8.5
+"130","549-84-7482","B","Mandalay","Normal","Feminino","Viagens e sports",479.3868,9,215.72406,4355.1072,"02/08/2019","11:15","Carteira eletrônica",40.626,7.2
+"131","191-10-6171","B","Mandalay","Normal","Feminino","Acessórios de moda",210.3822,7,73.63377,1486.5424,"1/25/2019","13:18","Dinheiro",13.867,7.5
+"132","802-70-5316","A","Yangon","Membro","Feminino","Viagens e sports",489.2103,6,146.76309,2962.9008,"03/06/2019","20:34","Dinheiro",27.639,8.3
+"133","695-51-0018","B","Mandalay","Normal","Feminino","Viagens e sports",185.0004,4,37.00008,746.9696,"02/10/2019","18:36","Dinheiro",6.968,7.4
+"134","590-83-4591","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",464.3595,6,139.30785,2812.392,"2/17/2019","14:40","Cartão de crédito",26.235,8.8
+"135","483-71-1164","C","Naypyitaw","Normal","Feminino","Saúde e beleza",431.703,6,129.5109,2614.608,"03/08/2019","16:43","Carteira eletrônica",24.39,5.3
+"136","597-78-7908","C","Naypyitaw","Normal","Masculino","Acessórios de moda",479.0682,3,71.86023,1450.7376,"2/18/2019","19:39","Dinheiro",13.533,6.2
+"137","700-81-1757","A","Yangon","Normal","Feminino","Acessórios eletrônicos",139.7061,5,349.26525,764.3055,"1/18/2019","20:59","Cartão de crédito",65.775,8.8
+"138","354-39-5160","A","Yangon","Membro","Feminino","Lar e estilo de vida",182.7702,6,54.83106,1106.9472,"2/18/2019","15:39","Dinheiro",10.326,9.8
+"139","241-72-9525","B","Mandalay","Normal","Masculino","Viagens e sports",275.6421,10,137.82105,2782.376,"2/16/2019","12:21","Dinheiro",25.955,8.2
+"140","575-30-8091","A","Yangon","Normal","Masculino","Viagens e sports",384.975,8,153.99,3108.8,"3/16/2019","19:25","Carteira eletrônica",29,9.2
+"141","731-81-9469","C","Naypyitaw","Membro","Feminino","Viagens e sports",476.838,10,238.419,4813.28,"1/23/2019","13:00","Cartão de crédito",44.9,5.4
+"142","280-17-4359","C","Naypyitaw","Membro","Masculino","Saúde e beleza",480.555,10,240.2775,4850.8,"1/25/2019","13:48","Dinheiro",45.25,8.1
+"143","338-65-2210","C","Naypyitaw","Membro","Feminino","Saúde e beleza",364.266,10,182.133,3676.96,"02/05/2019","19:57","Dinheiro",34.3,9.1
+"144","488-25-4221","C","Naypyitaw","Membro","Feminino","Acessórios de moda",161.4771,1,80.73855,176.6821,"2/22/2019","10:36","Cartão de crédito",15.205,8.4
+"145","239-10-7476","A","Yangon","Normal","Feminino","Lar e estilo de vida",413.9145,6,124.17435,2506.872,"1/21/2019","16:37","Carteira eletrônica",23.385,8
+"146","458-41-1477","C","Naypyitaw","Normal","Feminino","Saúde e beleza",245.6406,6,73.69218,1487.7216,"03/08/2019","17:11","Cartão de crédito",13.878,9.5
+"147","685-64-1609","A","Yangon","Membro","Feminino","Acessórios de moda",160.0434,10,80.0217,1615.504,"02/10/2019","12:28","Carteira eletrônica",15.07,9.2
+"148","568-90-5112","C","Naypyitaw","Normal","Masculino","Saúde e beleza",351.2034,4,70.24068,1418.0416,"3/19/2019","12:46","Cartão de crédito",13.228,5.6
+"149","262-47-2794","B","Mandalay","Membro","Masculino","Lar e estilo de vida",381.5766,8,152.63064,3081.3568,"03/06/2019","15:07","Cartão de crédito",28.744,6.2
+"150","238-49-0436","A","Yangon","Normal","Masculino","Saúde e beleza",172.3626,8,68.94504,1391.8848,"3/27/2019","13:48","Cartão de crédito",12.984,4.9
+"151","608-96-3517","B","Mandalay","Membro","Feminino","Acessórios de moda",486.0774,4,97.21548,1962.6176,"3/23/2019","19:20","Cartão de crédito",18.308,4.8
+"152","584-86-7256","C","Naypyitaw","Membro","Masculino","Viagens e sports",183.5136,7,64.22976,1296.6912,"03/11/2019","16:07","Cartão de crédito",12.096,7.3
+"153","746-94-0204","A","Yangon","Normal","Masculino","Acessórios de moda",442.0044,9,198.90198,4015.4976,"1/29/2019","11:56","Cartão de crédito",37.458,7.4
+"154","214-17-6927","C","Naypyitaw","Normal","Feminino","Acessórios de moda",87.5088,6,26.25264,529.9968,"02/07/2019","18:23","Carteira eletrônica",4.944,9.9
+"155","400-89-4171","C","Naypyitaw","Normal","Feminino","Viagens e sports",429.9507,8,171.98028,3471.9936,"1/28/2019","13:05","Dinheiro",32.388,9.3
+"156","782-95-9291","A","Yangon","Membro","Masculino","Acessórios de moda",490.0599,5,1225.14975,2681.0245,"2/20/2019","15:55","Cartão de crédito",230.725,9
+"157","279-74-2924","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",383.2227,1,191.61135,419.3077,"01/04/2019","19:40","Dinheiro",36.085,6.1
+"158","307-85-2293","B","Mandalay","Normal","Masculino","Lar e estilo de vida",266.9868,5,66.7467,1347.504,"03/07/2019","13:58","Carteira eletrônica",12.57,9.7
+"159","743-04-1105","B","Mandalay","Membro","Masculino","Saúde e beleza",516.2382,9,232.30719,4689.8928,"3/30/2019","14:43","Carteira eletrônica",43.749,6
+"160","423-57-2993","B","Mandalay","Normal","Masculino","Viagens e sports",495.9009,6,148.77027,3003.4224,"3/27/2019","19:18","Carteira eletrônica",28.017,10
+"161","894-41-5205","C","Naypyitaw","Normal","Feminino","Acessórios de moda",229.2858,8,91.71432,1851.5584,"1/19/2019","19:39","Cartão de crédito",17.272,8.3
+"162","275-28-0149","A","Yangon","Normal","Masculino","Viagens e sports",338.1939,1,169.09695,370.0389,"2/25/2019","16:21","Dinheiro",31.845,6
+"163","101-17-6199","A","Yangon","Normal","Masculino","Acessórios de moda",243.1449,7,851.00715,1862.2793,"3/13/2019","19:44","Cartão de crédito",160.265,7
+"164","423-80-0988","C","Naypyitaw","Normal","Masculino","Viagens e sports",405.684,2,40.5684,819.008,"1/30/2019","19:42","Carteira eletrônica",7.64,6.5
+"165","548-46-9322","B","Mandalay","Normal","Masculino","Acessórios de moda",211.869,10,105.9345,2138.64,"2/20/2019","15:24","Cartão de crédito",19.95,5.9
+"166","505-02-0892","B","Mandalay","Membro","Masculino","Saúde e beleza",226.0467,8,90.41868,1825.4016,"2/25/2019","14:12","Carteira eletrônica",17.028,5.6
+"167","234-65-2137","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",507.5298,10,253.7649,5123.088,"1/16/2019","13:32","Dinheiro",47.79,4.8
+"168","687-47-8271","A","Yangon","Normal","Masculino","Acessórios de moda",525.5838,10,262.7919,5305.328,"02/08/2019","16:20","Cartão de crédito",49.49,8.7
+"169","796-32-9050","A","Yangon","Normal","Masculino","Acessórios de moda",272.2968,6,81.68904,1649.1648,"1/19/2019","16:31","Dinheiro",15.384,6.5
+"170","105-31-1824","A","Yangon","Membro","Masculino","Viagens e sports",369.1512,7,129.20292,2608.3904,"02/01/2019","15:10","Cartão de crédito",24.332,8.5
+"171","249-42-3782","A","Yangon","Normal","Masculino","Saúde e beleza",371.7531,5,929.38275,2033.7905,"01/03/2019","11:36","Carteira eletrônica",175.025,5.5
+"172","316-55-4634","B","Mandalay","Membro","Masculino","Acessórios de moda",425.0655,5,1062.66375,2325.4525,"1/26/2019","12:45","Cartão de crédito",200.125,9.4
+"173","733-33-4967","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",110.7135,8,44.2854,894.048,"03/03/2019","19:17","Dinheiro",8.34,6.3
+"174","608-27-6295","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",280.8459,6,84.25377,1700.9424,"1/19/2019","17:34","Cartão de crédito",15.867,9.8
+"175","414-12-7047","B","Mandalay","Normal","Masculino","Acessórios de moda",105.0849,8,42.03396,848.5952,"1/18/2019","12:04","Carteira eletrônica",7.916,8.7
+"176","827-26-2100","A","Yangon","Membro","Masculino","Lar e estilo de vida",179.6904,9,80.86068,1632.4416,"3/21/2019","16:21","Carteira eletrônica",15.228,8.8
+"177","175-54-2529","A","Yangon","Membro","Masculino","Acessórios de moda",117.7227,8,47.08908,950.6496,"03/03/2019","17:01","Cartão de crédito",8.868,9.6
+"178","139-52-2867","C","Naypyitaw","Normal","Feminino","Acessórios de moda",119.5281,7,418.34835,915.4817,"2/13/2019","10:50","Cartão de crédito",78.785,4.8
+"179","407-63-8975","A","Yangon","Normal","Masculino","Acessórios de moda",392.3028,6,117.69084,2375.9808,"3/23/2019","19:16","Carteira eletrônica",22.164,4.4
+"180","342-65-4817","C","Naypyitaw","Membro","Masculino","Saúde e beleza",460.908,3,69.1362,1395.744,"1/28/2019","16:47","Carteira eletrônica",13.02,9.9
+"181","130-98-8941","C","Naypyitaw","Normal","Masculino","Acessórios de moda",341.2206,7,119.42721,2411.0352,"02/09/2019","10:00","Dinheiro",22.491,5.7
+"182","434-83-9547","C","Naypyitaw","Membro","Masculino","Acessórios de moda",204.2757,8,81.71028,1649.5936,"1/23/2019","11:51","Dinheiro",15.388,7.7
+"183","851-28-6367","A","Yangon","Membro","Masculino","Viagens e sports",82.305,10,41.1525,830.8,"3/23/2019","10:55","Carteira eletrônica",7.75,8
+"184","824-88-3614","C","Naypyitaw","Normal","Masculino","Saúde e beleza",182.1861,8,72.87444,1471.2128,"1/25/2019","15:00","Carteira eletrônica",13.724,5.7
+"185","586-25-0848","A","Yangon","Normal","Feminino","Viagens e sports",65.5254,7,22.93389,462.9968,"03/04/2019","11:19","Cartão de crédito",4.319,6.7
+"186","895-66-0685","B","Mandalay","Membro","Masculino","Acessórios de moda",96.0048,3,14.40072,290.7264,"03/05/2019","19:46","Carteira eletrônica",2.712,8
+"187","305-14-0245","B","Mandalay","Membro","Feminino","Lar e estilo de vida",501.7419,8,200.69676,4051.7312,"03/03/2019","19:00","Carteira eletrônica",37.796,7.5
+"188","732-04-5373","B","Mandalay","Membro","Masculino","Lar e estilo de vida",246.7557,4,49.35114,996.3168,"02/08/2019","10:53","Dinheiro",9.294,7
+"189","400-60-7251","A","Yangon","Normal","Masculino","Lar e estilo de vida",393.3117,1,196.65585,430.3467,"02/10/2019","12:50","Carteira eletrônica",37.035,9.9
+"190","593-65-1552","C","Naypyitaw","Normal","Feminino","Lar e estilo de vida",370.6911,4,74.13822,1496.7264,"1/28/2019","20:50","Cartão de crédito",13.962,5.9
+"191","284-34-9626","B","Mandalay","Normal","Feminino","Lar e estilo de vida",409.0824,3,61.36236,1238.8032,"02/11/2019","10:39","Cartão de crédito",11.556,7.2
+"192","437-58-8131","B","Mandalay","Normal","Feminino","Acessórios de moda",390.3912,2,39.03912,788.1344,"1/15/2019","13:41","Carteira eletrônica",7.352,4.6
+"193","286-43-6208","C","Naypyitaw","Normal","Feminino","Acessórios de moda",466.218,9,209.7981,4235.472,"3/16/2019","19:08","Dinheiro",39.51,9.2
+"194","641-43-2399","B","Mandalay","Normal","Masculino","Lar e estilo de vida",135.6705,4,27.1341,547.792,"1/26/2019","20:23","Carteira eletrônica",5.11,5.7
+"195","831-07-6050","A","Yangon","Normal","Masculino","Acessórios eletrônicos",173.6901,5,434.22525,950.2255,"3/19/2019","11:30","Cartão de crédito",81.775,9.9
+"196","556-86-3144","C","Naypyitaw","Membro","Feminino","Acessórios de moda",394.4799,1,197.23995,431.6249,"1/13/2019","19:30","Dinheiro",37.145,5
+"197","848-24-9445","C","Naypyitaw","Membro","Masculino","Saúde e beleza",232.047,2,23.2047,468.464,"3/26/2019","18:03","Dinheiro",4.37,4.9
+"198","856-22-8149","A","Yangon","Normal","Feminino","Lar e estilo de vida",134.2899,1,67.14495,146.9349,"3/23/2019","10:13","Carteira eletrônica",12.645,6.1
+"199","699-01-4164","C","Naypyitaw","Normal","Masculino","Saúde e beleza",220.365,4,44.073,889.76,"03/12/2019","19:58","Cartão de crédito",8.3,8.2
+"200","420-11-4919","C","Naypyitaw","Membro","Feminino","Acessórios de moda",379.0809,5,947.70225,2073.8795,"2/17/2019","19:57","Cartão de crédito",178.475,5.5
+"201","606-80-4905","C","Naypyitaw","Membro","Feminino","Viagens e sports",101.6865,6,30.50595,615.864,"1/29/2019","10:01","Cartão de crédito",5.745,6.8
+"202","542-41-0513","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",305.2719,4,61.05438,1232.5856,"3/15/2019","11:57","Dinheiro",11.498,6.6
+"203","426-39-2418","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",326.0871,7,1141.30485,2497.5447,"1/14/2019","10:02","Dinheiro",214.935,9.8
+"204","875-46-5808","B","Mandalay","Membro","Masculino","Saúde e beleza",137.529,10,68.7645,1388.24,"02/06/2019","14:51","Carteira eletrônica",12.95,8.7
+"205","394-43-4238","B","Mandalay","Membro","Masculino","Lar e estilo de vida",94.3587,5,235.89675,516.2185,"2/15/2019","12:42","Cartão de crédito",44.425,5.4
+"206","749-24-1565","A","Yangon","Normal","Feminino","Saúde e beleza",122.2893,9,550.30185,1204.2387,"01/03/2019","12:02","Carteira eletrônica",103.635,7.9
+"207","672-51-8681","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",353.9115,9,1592.60175,3485.1285,"01/04/2019","18:19","Cartão de crédito",299.925,9.7
+"208","263-87-5680","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",151.4943,10,75.74715,1529.208,"3/18/2019","17:38","Carteira eletrônica",14.265,7.8
+"209","573-58-9734","B","Mandalay","Normal","Feminino","Acessórios de moda",161.2647,3,241.89705,529.3491,"3/28/2019","13:41","Carteira eletrônica",45.555,5.1
+"210","817-69-8206","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",529.5663,9,2383.04835,5214.8817,"03/02/2019","19:42","Cartão de crédito",448.785,6.5
+"211","888-02-0338","A","Yangon","Normal","Masculino","Acessórios eletrônicos",139.2813,9,626.76585,1371.5667,"1/25/2019","20:24","Carteira eletrônica",118.035,5.9
+"212","677-11-0152","C","Naypyitaw","Normal","Feminino","Acessórios de moda",495.2106,9,222.84477,4498.8624,"1/16/2019","18:08","Dinheiro",41.967,8.8
+"213","142-63-6033","B","Mandalay","Normal","Masculino","Lar e estilo de vida",490.4316,5,122.6079,2475.248,"3/20/2019","19:17","Carteira eletrônica",23.09,4.9
+"214","656-16-1063","B","Mandalay","Normal","Masculino","Viagens e sports",246.4902,3,36.97353,746.4336,"01/04/2019","13:24","Cartão de crédito",6.963,4.4
+"215","891-58-8335","B","Mandalay","Membro","Feminino","Viagens e sports",157.2291,7,550.30185,1204.2387,"03/11/2019","15:53","Dinheiro",103.635,6.5
+"216","802-43-8934","A","Yangon","Normal","Masculino","Lar e estilo de vida",97.0668,1,4.85334,97.9808,"3/22/2019","15:05","Cartão de crédito",0.914,8.3
+"217","560-30-5617","B","Mandalay","Normal","Feminino","Viagens e sports",131.5287,5,328.82175,719.5685,"3/24/2019","18:27","Dinheiro",61.925,8.5
+"218","319-74-2561","A","Yangon","Membro","Feminino","Acessórios eletrônicos",502.5384,3,75.38076,1521.8112,"2/21/2019","16:55","Dinheiro",14.196,5.5
+"219","549-03-9315","B","Mandalay","Normal","Masculino","Acessórios de moda",503.7597,8,201.50388,4068.0256,"02/12/2019","12:58","Carteira eletrônica",37.948,8.7
+"220","790-29-1172","B","Mandalay","Normal","Feminino","Acessórios de moda",304.4754,3,45.67131,922.0272,"03/10/2019","18:59","Cartão de crédito",8.601,7.9
+"221","239-36-3640","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",240.8085,6,72.24255,1458.456,"1/31/2019","13:44","Carteira eletrônica",13.605,6.1
+"222","468-01-2051","B","Mandalay","Normal","Masculino","Acessórios de moda",329.6448,7,115.37568,2329.2416,"03/06/2019","13:46","Carteira eletrônica",21.728,5.4
+"223","389-25-3394","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",62.7111,5,156.77775,343.0805,"2/17/2019","18:06","Dinheiro",29.525,9.4
+"224","279-62-1445","C","Naypyitaw","Membro","Feminino","Acessórios de moda",66.5874,1,3.32937,67.2144,"2/21/2019","12:38","Dinheiro",0.627,8.2
+"225","213-72-6612","A","Yangon","Normal","Masculino","Acessórios de moda",229.6575,2,22.96575,463.64,"3/20/2019","15:56","Dinheiro",4.325,6.2
+"226","746-68-6593","C","Naypyitaw","Membro","Feminino","Viagens e sports",462.8196,2,46.28196,934.3552,"01/11/2019","14:29","Cartão de crédito",8.716,9.7
+"227","836-82-5858","B","Mandalay","Membro","Masculino","Saúde e beleza",368.3547,9,1657.59615,3627.3573,"1/26/2019","19:14","Carteira eletrônica",312.165,4
+"228","583-72-1480","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",196.7886,4,39.35772,794.5664,"1/31/2019","16:24","Carteira eletrônica",7.412,9.7
+"229","466-61-5506","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",481.617,6,144.4851,2916.912,"2/26/2019","10:52","Dinheiro",27.21,5.3
+"230","721-86-6247","A","Yangon","Normal","Feminino","Lar e estilo de vida",336.7602,8,134.70408,2719.4496,"03/11/2019","12:55","Carteira eletrônica",25.368,7.4
+"231","289-65-5721","B","Mandalay","Normal","Feminino","Acessórios de moda",432.0747,2,43.20747,872.2864,"1/26/2019","19:28","Dinheiro",8.137,6.5
+"232","545-46-3100","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",56.2329,3,84.34935,184.5837,"03/12/2019","13:52","Cartão de crédito",15.885,8.7
+"233","418-02-5978","B","Mandalay","Normal","Feminino","Saúde e beleza",446.5179,9,2009.33055,4397.0661,"02/11/2019","10:54","Dinheiro",378.405,8
+"234","269-04-5750","B","Mandalay","Membro","Masculino","Acessórios de moda",391.9842,4,78.39684,1582.7008,"2/21/2019","18:31","Dinheiro",14.764,6.7
+"235","157-13-5295","A","Yangon","Membro","Masculino","Saúde e beleza",275.8014,10,137.9007,2783.984,"03/09/2019","18:24","Carteira eletrônica",25.97,6.5
+"236","645-78-8093","A","Yangon","Normal","Feminino","Viagens e sports",494.5734,2,49.45734,998.4608,"1/20/2019","18:09","Carteira eletrônica",9.314,4.1
+"237","211-30-9270","C","Naypyitaw","Normal","Masculino","Saúde e beleza",92.4471,5,231.11775,505.7605,"1/28/2019","15:16","Cartão de crédito",43.525,4.9
+"238","755-12-3214","C","Naypyitaw","Membro","Feminino","Acessórios de moda",234.8082,5,58.70205,1185.096,"03/05/2019","17:07","Cartão de crédito",11.055,8.6
+"239","346-84-3103","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",70.1982,5,17.54955,354.296,"03/02/2019","19:26","Dinheiro",3.305,4.3
+"240","478-06-7835","A","Yangon","Normal","Masculino","Acessórios de moda",476.2539,1,238.12695,521.0989,"01/11/2019","11:20","Carteira eletrônica",44.845,4.9
+"241","540-11-4336","A","Yangon","Normal","Masculino","Acessórios de moda",132.4314,9,59.59413,1203.1056,"01/11/2019","16:49","Cartão de crédito",11.223,5.6
+"242","448-81-5016","A","Yangon","Normal","Masculino","Saúde e beleza",317.3787,2,31.73787,640.7344,"03/11/2019","12:01","Cartão de crédito",5.977,5.8
+"243","142-72-4741","C","Naypyitaw","Membro","Masculino","Acessórios de moda",494.892,2,49.4892,999.104,"2/28/2019","18:37","Cartão de crédito",9.32,6
+"244","217-58-1179","A","Yangon","Membro","Masculino","Lar e estilo de vida",332.6715,4,66.5343,1343.216,"01/05/2019","11:25","Dinheiro",12.53,4.2
+"245","376-02-8238","B","Mandalay","Normal","Masculino","Lar e estilo de vida",498.4497,8,199.37988,4025.1456,"02/02/2019","18:42","Cartão de crédito",37.548,8.3
+"246","530-90-9855","A","Yangon","Membro","Masculino","Lar e estilo de vida",252.7029,8,101.08116,2040.6592,"01/01/2019","14:47","Dinheiro",19.036,5.7
+"247","866-05-7563","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",432.234,3,64.8351,1308.912,"02/09/2019","19:43","Dinheiro",12.21,4.8
+"248","604-70-6476","A","Yangon","Membro","Masculino","Acessórios de moda",95.2614,5,23.81535,480.792,"1/23/2019","14:04","Carteira eletrônica",4.485,6.8
+"249","799-71-1548","A","Yangon","Membro","Masculino","Acessórios eletrônicos",412.6932,4,82.53864,1666.3168,"01/07/2019","16:11","Cartão de crédito",15.544,8.8
+"250","785-13-7708","B","Mandalay","Normal","Masculino","Acessórios de moda",387.9486,7,135.78201,2741.2112,"1/14/2019","19:06","Cartão de crédito",25.571,4.2
+"251","845-51-0542","B","Mandalay","Membro","Masculino","Acessórios de moda",247.1805,9,1112.31225,2434.0995,"02/02/2019","15:34","Carteira eletrônica",209.475,6.4
+"252","662-47-5456","C","Naypyitaw","Membro","Masculino","Acessórios de moda",186.8589,10,93.42945,1886.184,"3/17/2019","19:06","Cartão de crédito",17.595,8.4
+"253","883-17-4236","C","Naypyitaw","Normal","Feminino","Viagens e sports",76.4109,2,7.64109,154.2608,"03/02/2019","19:44","Cartão de crédito",1.439,7.2
+"254","290-68-2984","A","Yangon","Normal","Masculino","Lar e estilo de vida",126.1125,4,25.2225,509.2,"3/16/2019","11:22","Dinheiro",4.75,5.2
+"255","704-11-6354","A","Yangon","Membro","Masculino","Lar e estilo de vida",312.759,8,125.1036,2525.632,"01/06/2019","11:23","Dinheiro",23.56,8.9
+"256","110-48-7033","B","Mandalay","Membro","Masculino","Acessórios de moda",173.2122,4,34.64244,699.3728,"1/29/2019","14:12","Dinheiro",6.524,9
+"257","366-93-0948","A","Yangon","Membro","Masculino","Acessórios eletrônicos",352.3185,1,176.15925,385.4935,"1/31/2019","10:46","Cartão de crédito",33.175,9.7
+"258","729-09-9681","A","Yangon","Membro","Masculino","Lar e estilo de vida",137.5821,6,41.27463,833.2656,"02/05/2019","10:16","Carteira eletrônica",7.773,8.7
+"259","151-16-1484","A","Yangon","Membro","Masculino","Acessórios eletrônicos",171.2475,4,34.2495,691.44,"2/13/2019","12:38","Carteira eletrônica",6.45,6.5
+"260","380-94-4661","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",350.1414,4,70.02828,1413.7536,"02/07/2019","13:05","Cartão de crédito",13.188,6.9
+"261","850-41-9669","A","Yangon","Normal","Feminino","Acessórios eletrônicos",398.5686,9,179.35587,3620.8944,"3/19/2019","13:25","Carteira eletrônica",33.777,6.2
+"262","821-07-3596","C","Naypyitaw","Normal","Feminino","Acessórios de moda",87.3495,4,17.4699,352.688,"03/07/2019","14:53","Carteira eletrônica",3.29,5.6
+"263","655-85-5130","B","Mandalay","Membro","Feminino","Acessórios de moda",203.373,4,40.6746,821.152,"3/13/2019","19:22","Dinheiro",7.66,5.7
+"264","447-15-7839","A","Yangon","Membro","Feminino","Viagens e sports",118.0944,10,59.0472,1192.064,"02/09/2019","11:00","Dinheiro",11.12,4.2
+"265","154-74-7179","B","Mandalay","Normal","Masculino","Viagens e sports",289.1295,1,144.56475,316.3545,"2/26/2019","19:24","Carteira eletrônica",27.225,7.9
+"266","253-12-6086","A","Yangon","Membro","Feminino","Viagens e sports",522.504,7,182.8764,3691.968,"03/12/2019","12:43","Cartão de crédito",34.44,8.7
+"267","808-65-0703","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",188.3457,4,37.66914,760.4768,"3/14/2019","17:22","Cartão de crédito",7.094,6.9
+"268","571-94-0759","B","Mandalay","Membro","Feminino","Acessórios de moda",396.126,10,198.063,3998.56,"01/08/2019","20:55","Dinheiro",37.3,9.5
+"269","144-51-6085","A","Yangon","Membro","Masculino","Lar e estilo de vida",375.6294,4,75.12588,1516.6656,"01/05/2019","16:05","Cartão de crédito",14.148,4.4
+"270","731-14-2199","A","Yangon","Membro","Feminino","Lar e estilo de vida",188.7174,10,94.3587,1904.944,"01/04/2019","13:34","Carteira eletrônica",17.77,7
+"271","783-09-1637","B","Mandalay","Normal","Feminino","Viagens e sports",358.0533,5,895.13325,1958.8415,"03/06/2019","18:13","Carteira eletrônica",168.575,6.3
+"272","687-15-1097","C","Naypyitaw","Membro","Feminino","Saúde e beleza",112.1472,2,11.21472,226.4064,"01/03/2019","19:17","Dinheiro",2.112,9.7
+"273","126-54-1082","A","Yangon","Membro","Feminino","Lar e estilo de vida",114.3774,9,51.46983,1039.0896,"01/07/2019","11:44","Cartão de crédito",9.693,8.8
+"274","633-91-1052","A","Yangon","Normal","Feminino","Lar e estilo de vida",63.8793,2,6.38793,128.9616,"1/27/2019","15:51","Dinheiro",1.203,5.1
+"275","477-24-6490","B","Mandalay","Normal","Feminino","Saúde e beleza",529.4601,6,158.83803,3206.6736,"2/26/2019","16:52","Carteira eletrônica",29.913,7.9
+"276","566-19-5475","B","Mandalay","Normal","Masculino","Acessórios de moda",254.7207,7,891.52245,1950.9399,"01/07/2019","20:52","Dinheiro",167.895,6.2
+"277","526-86-8552","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",115.8642,10,57.9321,1169.552,"01/07/2019","17:36","Dinheiro",10.91,7.1
+"278","376-56-3573","C","Naypyitaw","Normal","Feminino","Acessórios de moda",506.6802,4,101.33604,2045.8048,"02/02/2019","13:23","Carteira eletrônica",19.084,6.4
+"279","537-72-0426","C","Naypyitaw","Membro","Masculino","Acessórios de moda",376.9569,10,188.47845,3805.064,"3/20/2019","16:28","Dinheiro",35.495,5.7
+"280","828-61-5674","A","Yangon","Membro","Masculino","Viagens e sports",233.7462,10,116.8731,2359.472,"3/20/2019","19:57","Cartão de crédito",22.01,9.6
+"281","136-08-6195","A","Yangon","Normal","Feminino","Lar e estilo de vida",371.4876,8,148.59504,2999.8848,"2/15/2019","17:01","Cartão de crédito",27.984,6.4
+"282","523-38-0215","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",196.47,1,9.8235,198.32,"03/06/2019","13:29","Cartão de crédito",1.85,7.9
+"283","490-29-1201","A","Yangon","Normal","Feminino","Viagens e sports",81.4554,1,4.07277,82.2224,"01/06/2019","11:09","Dinheiro",0.767,6.5
+"284","667-92-0055","A","Yangon","Membro","Masculino","Saúde e beleza",530.0973,6,159.02919,3210.5328,"03/04/2019","15:02","Carteira eletrônica",29.949,8.5
+"285","565-17-3836","A","Yangon","Membro","Feminino","Saúde e beleza",253.1277,4,50.62554,1022.0448,"03/12/2019","14:21","Dinheiro",9.534,9.1
+"286","498-41-1961","B","Mandalay","Normal","Masculino","Saúde e beleza",354.0708,5,88.5177,1787.024,"2/20/2019","18:01","Dinheiro",16.67,7.6
+"287","593-95-4461","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",397.5066,1,19.87533,401.2496,"3/24/2019","14:49","Dinheiro",3.743,6.9
+"288","226-71-3580","C","Naypyitaw","Normal","Feminino","Viagens e sports",126.1125,9,567.50625,1241.8875,"1/31/2019","12:02","Dinheiro",106.875,9.5
+"289","283-79-9594","B","Mandalay","Normal","Feminino","Acessórios de moda",257.5881,7,901.55835,1972.9017,"1/25/2019","13:30","Cartão de crédito",169.785,5.2
+"290","430-60-3493","A","Yangon","Membro","Feminino","Lar e estilo de vida",503.8128,7,176.33448,3559.8976,"02/03/2019","14:38","Dinheiro",33.208,4.2
+"291","139-20-0155","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",213.993,10,106.9965,2160.08,"1/24/2019","17:37","Cartão de crédito",20.15,7
+"292","558-80-4082","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",147.8835,7,517.59225,1132.6595,"3/14/2019","17:20","Carteira eletrônica",97.475,6
+"293","278-97-7759","A","Yangon","Membro","Feminino","Acessórios eletrônicos",331.7688,1,16.58844,334.8928,"2/18/2019","20:29","Dinheiro",3.124,4.7
+"294","316-68-6352","A","Yangon","Membro","Feminino","Acessórios de moda",193.0716,2,19.30716,389.7792,"1/21/2019","10:00","Dinheiro",3.636,7.1
+"295","585-03-5943","B","Mandalay","Normal","Masculino","Saúde e beleza",96.1641,10,48.08205,970.696,"3/13/2019","11:46","Carteira eletrônica",9.055,5.9
+"296","211-05-0490","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",275.6952,5,68.9238,1391.456,"03/03/2019","13:42","Dinheiro",12.98,7.5
+"297","727-75-6477","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",153.1404,4,30.62808,618.3296,"3/29/2019","14:44","Dinheiro",5.768,6.4
+"298","744-02-5987","A","Yangon","Membro","Masculino","Lar e estilo de vida",416.1978,6,124.85934,2520.7008,"01/10/2019","14:16","Carteira eletrônica",23.514,5.8
+"299","307-83-9164","A","Yangon","Membro","Masculino","Lar e estilo de vida",318.6531,4,63.73062,1286.6144,"1/25/2019","15:54","Dinheiro",12.002,4.5
+"300","779-06-0012","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",470.5191,1,235.25955,514.8241,"1/19/2019","10:21","Dinheiro",44.305,7.7
+"301","446-47-6729","C","Naypyitaw","Normal","Masculino","Acessórios de moda",530.0442,2,53.00442,1070.0704,"01/02/2019","18:09","Cartão de crédito",9.982,6.7
+"302","573-10-3877","B","Mandalay","Membro","Masculino","Saúde e beleza",207.1431,1,103.57155,226.6481,"03/12/2019","16:46","Cartão de crédito",19.505,4.7
+"303","735-06-4124","C","Naypyitaw","Normal","Masculino","Acessórios de moda",258.1191,1,129.05955,282.4241,"2/25/2019","15:31","Dinheiro",24.305,4.4
+"304","439-54-7422","A","Yangon","Normal","Feminino","Acessórios eletrônicos",271.8189,4,54.36378,1097.5136,"3/18/2019","17:15","Cartão de crédito",10.238,4.7
+"305","396-90-2219","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",79.4376,8,31.77504,641.4848,"2/23/2019","12:29","Dinheiro",5.984,8.6
+"306","411-77-0180","A","Yangon","Membro","Masculino","Acessórios eletrônicos",383.382,7,134.1837,2708.944,"3/26/2019","20:14","Carteira eletrônica",25.27,4.3
+"307","286-01-5402","A","Yangon","Normal","Feminino","Viagens e sports",213.6213,7,747.67455,1636.1541,"3/30/2019","13:22","Dinheiro",140.805,9.6
+"308","803-17-8013","A","Yangon","Membro","Feminino","Lar e estilo de vida",471.4749,8,188.58996,3807.3152,"2/17/2019","17:09","Dinheiro",35.516,4.1
+"309","512-98-1403","A","Yangon","Membro","Feminino","Acessórios eletrônicos",140.6088,3,21.09132,425.7984,"3/21/2019","10:40","Carteira eletrônica",3.972,4.7
+"310","848-42-2560","A","Yangon","Normal","Feminino","Acessórios de moda",434.9421,2,43.49421,878.0752,"03/05/2019","17:43","Dinheiro",8.191,7.8
+"311","532-59-7201","B","Mandalay","Membro","Masculino","Viagens e sports",424.4283,6,127.32849,2570.5488,"1/31/2019","14:04","Dinheiro",23.979,5.5
+"312","181-94-6432","C","Naypyitaw","Membro","Masculino","Acessórios de moda",368.1423,2,36.81423,743.2176,"02/05/2019","19:05","Carteira eletrônica",6.933,9.7
+"313","870-76-1733","A","Yangon","Membro","Feminino","Acessórios de moda",75.5613,5,188.90325,413.3815,"02/01/2019","10:08","Cartão de crédito",35.575,4.4
+"314","423-64-4619","A","Yangon","Membro","Feminino","Saúde e beleza",82.5705,9,371.56725,813.1095,"03/07/2019","13:12","Dinheiro",69.975,5
+"315","227-07-4446","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",414.8703,10,207.43515,4187.768,"02/10/2019","20:51","Dinheiro",39.065,4.4
+"316","174-36-3675","C","Naypyitaw","Membro","Masculino","Acessórios de moda",527.6547,2,52.76547,1065.2464,"2/14/2019","17:29","Dinheiro",9.937,5.2
+"317","428-83-5800","C","Naypyitaw","Membro","Feminino","Acessórios de moda",111.9348,3,16.79022,338.9664,"02/09/2019","10:25","Dinheiro",3.162,7.3
+"318","603-07-0961","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",397.1349,5,992.83725,2172.6495,"01/10/2019","11:34","Dinheiro",186.975,4.9
+"319","704-20-4138","C","Naypyitaw","Membro","Feminino","Saúde e beleza",157.5477,7,551.41695,1206.6789,"03/11/2019","18:58","Cartão de crédito",103.845,8.1
+"320","787-15-1757","C","Naypyitaw","Membro","Masculino","Saúde e beleza",234.0117,4,46.80234,944.8608,"2/18/2019","16:28","Carteira eletrônica",8.814,8.4
+"321","649-11-3678","C","Naypyitaw","Normal","Feminino","Acessórios de moda",121.7583,9,547.91235,1199.0097,"2/26/2019","20:26","Dinheiro",103.185,5.5
+"322","622-20-1945","C","Naypyitaw","Normal","Feminino","Saúde e beleza",209.3202,1,10.46601,211.2912,"1/18/2019","15:08","Dinheiro",1.971,8.4
+"323","372-94-8041","A","Yangon","Normal","Masculino","Saúde e beleza",81.0306,6,24.30918,490.7616,"2/15/2019","18:03","Carteira eletrônica",4.578,9.8
+"324","563-91-7120","A","Yangon","Normal","Feminino","Acessórios de moda",327.9987,5,819.99675,1794.4185,"03/08/2019","13:21","Dinheiro",154.425,6.7
+"325","746-54-5508","A","Yangon","Normal","Masculino","Lar e estilo de vida",114.2712,6,34.28136,692.0832,"1/17/2019","12:48","Cartão de crédito",6.456,9.4
+"326","276-54-0879","B","Mandalay","Normal","Masculino","Viagens e sports",518.9994,4,103.79988,2095.5456,"03/12/2019","19:53","Carteira eletrônica",19.548,6.4
+"327","815-11-1168","A","Yangon","Membro","Masculino","Acessórios de moda",529.8318,5,132.45795,2674.104,"03/09/2019","19:09","Dinheiro",24.945,5.4
+"328","719-76-3868","C","Naypyitaw","Membro","Masculino","Acessórios de moda",500.5206,4,100.10412,2020.9344,"03/12/2019","16:30","Dinheiro",18.852,8.6
+"329","730-61-8757","B","Mandalay","Membro","Masculino","Saúde e beleza",271.5003,4,54.30006,1096.2272,"1/25/2019","10:11","Cartão de crédito",10.226,4
+"330","340-66-0321","A","Yangon","Membro","Masculino","Acessórios eletrônicos",193.0716,4,38.61432,779.5584,"3/25/2019","13:07","Dinheiro",7.272,7.6
+"331","868-81-1752","B","Mandalay","Normal","Masculino","Lar e estilo de vida",116.9262,9,52.61679,1062.2448,"02/07/2019","18:48","Dinheiro",9.909,6.8
+"332","634-97-8956","A","Yangon","Normal","Masculino","Acessórios de moda",174.699,3,26.20485,529.032,"2/17/2019","17:27","Cartão de crédito",4.935,9.1
+"333","566-71-1091","A","Yangon","Normal","Masculino","Acessórios de moda",408.9762,5,102.24405,2064.136,"02/03/2019","15:59","Dinheiro",19.255,5.5
+"334","442-48-3607","A","Yangon","Membro","Masculino","Acessórios de moda",124.6788,2,12.46788,251.7056,"3/14/2019","11:21","Cartão de crédito",2.348,7.9
+"335","835-16-0096","C","Naypyitaw","Membro","Masculino","Viagens e sports",78.057,5,19.51425,393.96,"3/24/2019","13:48","Carteira eletrônica",3.675,8.5
+"336","527-09-6272","A","Yangon","Membro","Feminino","Acessórios eletrônicos",151.0695,5,377.67375,826.4725,"3/21/2019","10:17","Cartão de crédito",71.125,9.1
+"337","898-04-2717","A","Yangon","Normal","Masculino","Acessórios de moda",405.684,9,182.5578,3685.536,"3/19/2019","15:49","Carteira eletrônica",34.38,7.5
+"338","692-27-8933","B","Mandalay","Normal","Feminino","Viagens e sports",307.7145,6,92.31435,1863.672,"2/24/2019","13:02","Dinheiro",17.385,5.2
+"339","633-09-3463","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",253.0215,3,379.53225,830.5395,"3/28/2019","12:58","Cartão de crédito",71.475,9.5
+"340","374-17-3652","B","Mandalay","Membro","Feminino","Acessórios de moda",227.3742,9,102.31839,2065.6368,"02/05/2019","15:26","Cartão de crédito",19.269,8.9
+"341","378-07-7001","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",255.3579,3,383.03685,838.2087,"02/10/2019","18:23","Cartão de crédito",72.135,7.8
+"342","433-75-6987","B","Mandalay","Membro","Feminino","Saúde e beleza",297.2007,7,1040.20245,2276.2999,"03/05/2019","19:06","Carteira eletrônica",195.895,8.9
+"343","873-95-4984","B","Mandalay","Membro","Feminino","Saúde e beleza",408.339,7,142.91865,2885.288,"2/15/2019","20:21","Dinheiro",26.915,7.7
+"344","416-13-5917","C","Naypyitaw","Normal","Feminino","Acessórios de moda",515.2293,5,1288.07325,2818.7215,"1/30/2019","16:24","Carteira eletrônica",242.575,9.3
+"345","150-89-8043","A","Yangon","Normal","Masculino","Viagens e sports",237.0915,3,355.63725,778.2495,"2/14/2019","15:04","Dinheiro",66.975,6.2
+"346","135-84-8019","A","Yangon","Normal","Feminino","Acessórios de moda",413.8083,9,1862.13735,4074.9597,"2/27/2019","16:10","Carteira eletrônica",350.685,7.6
+"347","441-94-7118","A","Yangon","Membro","Masculino","Acessórios eletrônicos",382.0545,1,191.02725,418.0295,"02/04/2019","12:14","Dinheiro",35.975,7.3
+"348","725-96-3778","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",473.9175,8,189.567,3827.04,"1/20/2019","10:13","Dinheiro",35.7,4.7
+"349","531-80-1784","A","Yangon","Normal","Masculino","Acessórios eletrônicos",138.1662,7,48.35817,976.2704,"3/28/2019","17:38","Dinheiro",9.107,5.1
+"350","400-45-1220","B","Mandalay","Normal","Feminino","Saúde e beleza",71.685,10,35.8425,723.6,"2/27/2019","11:06","Cartão de crédito",6.75,4.8
+"351","860-79-0874","C","Naypyitaw","Membro","Feminino","Acessórios de moda",527.283,10,263.6415,5322.48,"2/15/2019","14:53","Cartão de crédito",49.65,6.6
+"352","834-61-8124","A","Yangon","Normal","Masculino","Acessórios eletrônicos",274.4739,7,960.65865,2102.2323,"1/26/2019","18:22","Dinheiro",180.915,5.5
+"353","115-99-4379","B","Mandalay","Membro","Feminino","Acessórios de moda",290.6163,7,1017.15705,2225.8691,"3/14/2019","19:02","Cartão de crédito",191.555,8.5
+"354","565-67-6697","B","Mandalay","Membro","Masculino","Lar e estilo de vida",143.37,9,64.5165,1302.48,"03/02/2019","14:16","Dinheiro",12.15,4.8
+"355","320-49-6392","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",160.5744,1,8.02872,162.0864,"03/04/2019","15:44","Dinheiro",1.512,8.4
+"356","889-04-9723","B","Mandalay","Membro","Feminino","Acessórios de moda",473.3334,4,94.66668,1911.1616,"01/07/2019","12:20","Cartão de crédito",17.828,7.8
+"357","632-90-0281","C","Naypyitaw","Normal","Feminino","Acessórios de moda",199.3905,10,99.69525,2012.68,"03/08/2019","20:01","Cartão de crédito",18.775,9.3
+"358","554-42-2417","C","Naypyitaw","Normal","Feminino","Viagens e sports",506.7864,10,253.3932,5115.584,"01/09/2019","13:45","Dinheiro",47.72,5.2
+"359","453-63-6187","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",146.025,3,21.90375,442.2,"03/01/2019","15:40","Carteira eletrônica",4.125,6.5
+"360","578-80-7669","B","Mandalay","Normal","Masculino","Viagens e sports",398.0907,1,199.04535,435.5757,"3/16/2019","16:58","Dinheiro",37.485,5.6
+"361","612-36-5536","A","Yangon","Membro","Masculino","Acessórios de moda",429.8976,8,171.95904,3471.5648,"2/17/2019","11:12","Cartão de crédito",32.384,7.4
+"362","605-72-4132","C","Naypyitaw","Normal","Feminino","Acessórios de moda",501.6357,8,200.65428,4050.8736,"2/27/2019","15:12","Dinheiro",37.788,9.1
+"363","471-41-2823","C","Naypyitaw","Normal","Masculino","Acessórios de moda",529.8849,2,52.98849,1069.7488,"03/07/2019","20:37","Carteira eletrônica",9.979,8
+"364","462-67-9126","A","Yangon","Normal","Masculino","Lar e estilo de vida",388.7982,6,116.63946,2354.7552,"1/21/2019","17:44","Dinheiro",21.966,7.2
+"365","272-27-9238","C","Naypyitaw","Normal","Feminino","Acessórios de moda",218.9844,4,43.79688,884.1856,"2/19/2019","16:23","Dinheiro",8.248,7.1
+"366","834-25-9262","C","Naypyitaw","Normal","Feminino","Acessórios de moda",433.7208,4,86.74416,1751.2192,"01/06/2019","12:12","Dinheiro",16.336,9.1
+"367","122-61-9553","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",272.5092,9,122.62914,2475.6768,"3/14/2019","19:33","Dinheiro",23.094,5.6
+"368","468-88-0009","A","Yangon","Membro","Masculino","Lar e estilo de vida",350.1414,4,70.02828,1413.7536,"3/24/2019","10:29","Dinheiro",13.188,6
+"369","613-59-9758","C","Naypyitaw","Normal","Feminino","Viagens e sports",76.2516,10,38.1258,769.696,"1/27/2019","14:28","Dinheiro",7.18,5.4
+"370","254-31-0042","A","Yangon","Membro","Masculino","Acessórios eletrônicos",114.165,9,51.37425,1037.16,"03/06/2019","12:46","Cartão de crédito",9.675,7.8
+"371","201-86-2184","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",139.4406,7,48.80421,985.2752,"02/02/2019","19:40","Dinheiro",9.191,9.9
+"372","261-12-8671","B","Mandalay","Normal","Feminino","Acessórios de moda",323.6976,2,32.36976,653.4912,"1/25/2019","19:39","Cartão de crédito",6.096,4.9
+"373","730-70-9830","C","Naypyitaw","Normal","Feminino","Lar e estilo de vida",372.2841,6,111.68523,2254.7376,"3/14/2019","17:54","Carteira eletrônica",21.033,5.2
+"374","382-25-8917","C","Naypyitaw","Normal","Masculino","Acessórios de moda",223.4448,6,67.03344,1353.2928,"1/29/2019","12:25","Dinheiro",12.624,8.9
+"375","422-29-8786","A","Yangon","Normal","Feminino","Lar e estilo de vida",356.2479,5,890.61975,1948.9645,"01/03/2019","16:47","Cartão de crédito",167.725,9.1
+"376","667-23-5919","A","Yangon","Membro","Feminino","Acessórios de moda",513.477,5,128.36925,2591.56,"1/14/2019","12:52","Carteira eletrônica",24.175,7
+"377","843-01-4703","B","Mandalay","Membro","Feminino","Lar e estilo de vida",187.8678,9,84.54051,1706.7312,"01/05/2019","19:50","Cartão de crédito",15.921,9.6
+"378","743-88-1662","C","Naypyitaw","Normal","Masculino","Viagens e sports",507.0519,7,1774.68165,3883.5783,"2/22/2019","18:17","Carteira eletrônica",334.215,8.7
+"379","595-86-2894","C","Naypyitaw","Membro","Masculino","Acessórios de moda",514.9638,4,102.99276,2079.2512,"02/06/2019","17:20","Carteira eletrônica",19.396,9.4
+"380","182-69-8360","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",125.5815,4,25.1163,507.056,"1/30/2019","13:32","Cartão de crédito",4.73,4
+"381","289-15-7034","A","Yangon","Membro","Masculino","Viagens e sports",437.1723,4,87.43446,1765.1552,"01/11/2019","10:37","Cartão de crédito",16.466,7.5
+"382","462-78-5240","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",141.2991,2,14.12991,285.2592,"3/19/2019","14:35","Dinheiro",2.661,4.2
+"383","868-52-7573","B","Mandalay","Normal","Feminino","Acessórios de moda",529.3539,5,1323.38475,2895.9945,"1/14/2019","12:09","Dinheiro",249.225,9.9
+"384","153-58-4872","C","Naypyitaw","Membro","Feminino","Acessórios de moda",397.6659,4,79.53318,1605.6416,"03/01/2019","15:32","Carteira eletrônica",14.978,4.2
+"385","662-72-2873","A","Yangon","Normal","Feminino","Acessórios de moda",217.3914,5,54.34785,1097.192,"01/06/2019","13:58","Carteira eletrônica",10.235,9.9
+"386","525-88-7307","B","Mandalay","Membro","Masculino","Viagens e sports",402.6042,1,20.13021,406.3952,"1/31/2019","13:19","Dinheiro",3.791,5.8
+"387","689-16-9784","C","Naypyitaw","Normal","Masculino","Acessórios de moda",248.3487,6,74.50461,1504.1232,"03/11/2019","13:37","Dinheiro",14.031,6
+"388","725-56-0833","A","Yangon","Normal","Feminino","Saúde e beleza",171.6192,10,85.8096,1732.352,"2/20/2019","16:49","Cartão de crédito",16.16,10
+"389","394-41-0748","C","Naypyitaw","Membro","Feminino","Acessórios de moda",287.1117,9,1292.00265,2827.3203,"1/27/2019","14:55","Carteira eletrônica",243.315,9.5
+"390","596-42-3999","B","Mandalay","Normal","Masculino","Acessórios de moda",96.7482,7,33.86187,683.6144,"03/10/2019","14:04","Cartão de crédito",6.377,6.6
+"391","541-89-9860","C","Naypyitaw","Membro","Feminino","Acessórios de moda",427.3488,3,64.10232,1294.1184,"2/15/2019","12:31","Dinheiro",12.072,8.1
+"392","173-82-9529","B","Mandalay","Normal","Feminino","Acessórios de moda",201.5145,10,100.75725,2034.12,"1/26/2019","14:51","Dinheiro",18.975,9.7
+"393","563-36-9814","A","Yangon","Membro","Masculino","Acessórios eletrônicos",407.9142,1,20.39571,411.7552,"2/13/2019","18:27","Carteira eletrônica",3.841,7.2
+"394","308-47-4913","A","Yangon","Membro","Feminino","Viagens e sports",277.5006,10,138.7503,2801.136,"03/09/2019","12:45","Cartão de crédito",26.13,6.2
+"395","885-17-6250","A","Yangon","Normal","Feminino","Saúde e beleza",423.4194,1,21.17097,427.4064,"03/06/2019","10:36","Carteira eletrônica",3.987,7.3
+"396","726-27-2396","A","Yangon","Normal","Feminino","Saúde e beleza",411.525,5,102.88125,2077,"1/24/2019","20:36","Carteira eletrônica",19.375,4.3
+"397","316-01-3952","A","Yangon","Normal","Feminino","Acessórios de moda",288.1737,5,720.43425,1576.5435,"3/13/2019","14:16","Carteira eletrônica",135.675,4.6
+"398","760-54-1821","B","Mandalay","Normal","Masculino","Lar e estilo de vida",72.1629,9,324.73305,710.6211,"3/15/2019","10:26","Dinheiro",61.155,5.8
+"399","793-10-3222","B","Mandalay","Membro","Feminino","Saúde e beleza",218.0286,6,65.40858,1320.4896,"03/05/2019","13:30","Cartão de crédito",12.318,8.3
+"400","346-12-3257","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",102.1644,9,45.97398,928.1376,"03/04/2019","16:28","Dinheiro",8.658,8
+"401","110-05-6330","C","Naypyitaw","Normal","Feminino","Acessórios de moda",209.3733,6,62.81199,1268.0688,"3/25/2019","20:18","Cartão de crédito",11.829,9.4
+"402","651-61-0874","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",245.4282,4,49.08564,990.9568,"03/12/2019","20:04","Cartão de crédito",9.244,6.2
+"403","236-86-3015","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",74.2338,1,3.71169,74.9328,"02/04/2019","13:38","Carteira eletrônica",0.699,9.8
+"404","831-64-0259","B","Mandalay","Normal","Feminino","Acessórios de moda",211.0725,5,527.68125,1154.7375,"2/22/2019","10:43","Carteira eletrônica",99.375,9.6
+"405","587-03-7455","C","Naypyitaw","Membro","Feminino","Acessórios de moda",519.2649,7,1817.42715,3977.1193,"2/16/2019","17:30","Carteira eletrônica",342.265,4.9
+"406","882-40-4577","A","Yangon","Membro","Masculino","Viagens e sports",357.1506,4,71.43012,1442.0544,"1/19/2019","15:28","Cartão de crédito",13.452,8
+"407","732-67-5346","A","Yangon","Normal","Masculino","Acessórios de moda",73.2249,5,183.06225,400.5995,"01/11/2019","19:07","Cartão de crédito",34.475,7.8
+"408","725-32-9708","B","Mandalay","Membro","Feminino","Acessórios de moda",364.8501,4,72.97002,1473.1424,"01/04/2019","19:01","Dinheiro",13.742,4.1
+"409","256-08-8343","A","Yangon","Normal","Feminino","Lar e estilo de vida",300.1743,4,60.03486,1212.0032,"03/04/2019","19:48","Carteira eletrônica",11.306,5.5
+"410","372-26-1506","C","Naypyitaw","Normal","Feminino","Acessórios de moda",126.4842,5,31.62105,638.376,"1/28/2019","19:24","Carteira eletrônica",5.955,5.4
+"411","244-08-0162","B","Mandalay","Normal","Feminino","Saúde e beleza",181.6551,10,90.82755,1833.656,"01/02/2019","13:00","Dinheiro",17.105,5.1
+"412","569-71-4390","B","Mandalay","Normal","Masculino","Viagens e sports",116.1297,2,11.61297,234.4464,"1/25/2019","14:29","Carteira eletrônica",2.187,6.9
+"413","132-23-6451","A","Yangon","Membro","Masculino","Saúde e beleza",111.3507,5,278.37675,609.1785,"01/04/2019","13:21","Dinheiro",52.425,7.8
+"414","696-90-2548","A","Yangon","Normal","Masculino","Viagens e sports",137.2104,3,20.58156,415.5072,"03/10/2019","18:55","Carteira eletrônica",3.876,6.6
+"415","472-15-9636","A","Yangon","Normal","Masculino","Lar e estilo de vida",270.4383,8,108.17532,2183.8784,"3/22/2019","19:36","Carteira eletrônica",20.372,9.2
+"416","268-03-6164","B","Mandalay","Normal","Masculino","Saúde e beleza",510.3441,1,255.17205,558.3991,"1/25/2019","16:28","Carteira eletrônica",48.055,7.8
+"417","750-57-9686","C","Naypyitaw","Normal","Feminino","Lar e estilo de vida",240.9678,4,48.19356,972.9472,"01/08/2019","13:48","Cartão de crédito",9.076,8.7
+"418","186-09-3669","C","Naypyitaw","Membro","Feminino","Saúde e beleza",432.8181,1,216.40905,473.5731,"1/22/2019","10:57","Carteira eletrônica",40.755,9.2
+"419","848-07-1692","B","Mandalay","Normal","Feminino","Saúde e beleza",303.8382,2,30.38382,613.3984,"01/12/2019","17:13","Carteira eletrônica",5.722,8.3
+"420","745-71-3520","A","Yangon","Membro","Feminino","Acessórios eletrônicos",133.9182,7,46.87137,946.2544,"02/04/2019","10:23","Dinheiro",8.827,8.2
+"421","266-76-6436","C","Naypyitaw","Membro","Feminino","Acessórios de moda",204.966,3,30.7449,620.688,"3/28/2019","13:57","Carteira eletrônica",5.79,7.5
+"422","740-22-2500","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",446.3055,3,669.45825,1464.9915,"1/23/2019","13:29","Dinheiro",126.075,9.8
+"423","271-88-8734","C","Naypyitaw","Membro","Feminino","Acessórios de moda",516.1851,10,258.09255,5210.456,"02/08/2019","13:00","Cartão de crédito",48.605,8.7
+"424","301-81-8610","B","Mandalay","Membro","Masculino","Acessórios de moda",134.9802,8,53.99208,1090.0096,"3/19/2019","19:42","Cartão de crédito",10.168,6.7
+"425","489-64-4354","C","Naypyitaw","Normal","Masculino","Acessórios de moda",86.4468,1,4.32234,87.2608,"03/09/2019","15:36","Dinheiro",0.814,5
+"426","198-84-7132","B","Mandalay","Membro","Masculino","Acessórios de moda",215.6391,9,970.37595,2123.4969,"01/02/2019","13:40","Dinheiro",182.745,7
+"427","269-10-8440","A","Yangon","Membro","Masculino","Saúde e beleza",282.3327,7,988.16445,2162.4239,"1/21/2019","18:01","Dinheiro",186.095,8.9
+"428","650-98-6268","B","Mandalay","Membro","Feminino","Acessórios de moda",110.8197,3,166.22955,363.7641,"3/20/2019","13:53","Cartão de crédito",31.305,8
+"429","741-73-3559","B","Mandalay","Normal","Masculino","Viagens e sports",357.2037,5,893.00925,1954.1935,"2/27/2019","17:27","Dinheiro",168.175,6.9
+"430","325-77-6186","A","Yangon","Membro","Feminino","Lar e estilo de vida",481.3515,10,240.67575,4858.84,"03/08/2019","10:53","Carteira eletrônica",45.325,7.3
+"431","286-75-7818","B","Mandalay","Normal","Masculino","Acessórios de moda",366.8148,2,36.68148,740.5376,"1/31/2019","19:48","Cartão de crédito",6.908,6.9
+"432","574-57-9721","C","Naypyitaw","Normal","Masculino","Acessórios de moda",229.7637,2,22.97637,463.8544,"03/08/2019","16:53","Carteira eletrônica",4.327,5.7
+"433","459-50-7686","A","Yangon","Normal","Feminino","Acessórios eletrônicos",124.5726,6,37.37178,754.4736,"1/13/2019","19:14","Carteira eletrônica",7.038,6.4
+"434","616-87-0016","B","Mandalay","Normal","Masculino","Acessórios de moda",507.3174,7,177.56109,3584.6608,"03/09/2019","14:36","Cartão de crédito",33.439,9.6
+"435","837-55-7229","B","Mandalay","Normal","Feminino","Acessórios de moda",251.9064,1,12.59532,254.2784,"2/22/2019","18:19","Cartão de crédito",2.372,6.8
+"436","751-69-0068","C","Naypyitaw","Normal","Masculino","Viagens e sports",526.9644,9,237.13398,4787.3376,"3/19/2019","19:09","Carteira eletrônica",44.658,9
+"437","257-73-1380","C","Naypyitaw","Membro","Masculino","Viagens e sports",440.3583,4,88.07166,1778.0192,"1/20/2019","16:51","Carteira eletrônica",16.586,9.6
+"438","345-08-4992","A","Yangon","Normal","Masculino","Lar e estilo de vida",180.4869,6,54.14607,1093.1184,"03/08/2019","15:37","Cartão de crédito",10.197,7.7
+"439","549-96-4200","C","Naypyitaw","Membro","Masculino","Acessórios de moda",90.4824,4,18.09648,365.3376,"03/08/2019","20:15","Carteira eletrônica",3.408,7
+"440","810-60-6344","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",216.9666,8,86.78664,1752.0768,"02/07/2019","14:38","Cartão de crédito",16.344,6.5
+"441","450-28-2866","C","Naypyitaw","Membro","Masculino","Acessórios de moda",92.6064,5,23.1516,467.392,"1/15/2019","19:25","Dinheiro",4.36,8.1
+"442","394-30-3170","B","Mandalay","Membro","Feminino","Viagens e sports",469.5633,8,187.82532,3791.8784,"3/22/2019","19:35","Cartão de crédito",35.372,4.3
+"443","138-17-5109","A","Yangon","Membro","Feminino","Lar e estilo de vida",473.7051,9,2131.67295,4664.7909,"1/15/2019","15:42","Cartão de crédito",401.445,6.5
+"444","192-98-7397","C","Naypyitaw","Normal","Masculino","Acessórios de moda",67.8618,1,3.39309,68.5008,"01/08/2019","14:11","Carteira eletrônica",0.639,9.5
+"445","301-11-9629","A","Yangon","Normal","Feminino","Viagens e sports",101.421,7,35.49735,716.632,"1/15/2019","10:43","Dinheiro",6.685,9.7
+"446","390-80-5128","B","Mandalay","Membro","Feminino","Saúde e beleza",101.6865,1,5.084325,102.644,"1/28/2019","17:58","Cartão de crédito",0.9575,9.5
+"447","235-46-8343","C","Naypyitaw","Membro","Masculino","Acessórios de moda",146.8746,10,73.4373,1482.576,"2/14/2019","11:26","Cartão de crédito",13.83,8.9
+"448","453-12-7053","C","Naypyitaw","Normal","Masculino","Acessórios de moda",242.8794,3,36.43191,735.4992,"03/10/2019","17:38","Cartão de crédito",6.861,6.5
+"449","296-11-7041","B","Mandalay","Membro","Feminino","Saúde e beleza",143.7417,1,71.87085,157.2767,"01/12/2019","20:07","Cartão de crédito",13.535,5.3
+"450","449-27-2918","B","Mandalay","Membro","Feminino","Viagens e sports",207.7272,1,10.38636,209.6832,"3/26/2019","11:02","Cartão de crédito",1.956,9.6
+"451","891-01-7034","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",396.7101,6,119.01303,2402.6736,"01/01/2019","19:07","Dinheiro",22.413,6.7
+"452","744-09-5786","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",116.8731,6,35.06193,707.8416,"01/02/2019","18:50","Dinheiro",6.603,7.6
+"453","727-17-0390","A","Yangon","Normal","Feminino","Acessórios de moda",337.7691,5,844.42275,1847.8705,"3/16/2019","12:43","Carteira eletrônica",159.025,4.8
+"454","568-88-3448","A","Yangon","Normal","Masculino","Saúde e beleza",132.75,1,6.6375,134,"03/03/2019","15:09","Carteira eletrônica",1.25,5.5
+"455","187-83-5490","A","Yangon","Membro","Masculino","Acessórios eletrônicos",110.2887,4,22.05774,445.3088,"1/31/2019","13:47","Dinheiro",4.154,4.7
+"456","767-54-1907","B","Mandalay","Membro","Feminino","Acessórios de moda",156.9636,5,39.2409,792.208,"2/13/2019","16:59","Dinheiro",7.39,6.9
+"457","710-46-4433","B","Mandalay","Membro","Feminino","Acessórios de moda",410.994,9,184.9473,3733.776,"2/15/2019","14:15","Cartão de crédito",34.83,4.5
+"458","533-33-5337","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",421.5609,10,210.78045,4255.304,"02/07/2019","20:24","Dinheiro",39.695,6.2
+"459","325-90-8763","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",247.2867,10,123.64335,2496.152,"1/27/2019","13:58","Dinheiro",23.285,7.6
+"460","729-46-7422","C","Naypyitaw","Normal","Masculino","Acessórios de moda",190.5759,1,95.28795,208.5209,"2/23/2019","16:52","Cartão de crédito",17.945,7.9
+"461","639-76-1242","C","Naypyitaw","Normal","Masculino","Acessórios de moda",215.1612,5,53.7903,1085.936,"02/03/2019","15:19","Dinheiro",10.13,4.5
+"462","234-03-4040","B","Mandalay","Membro","Feminino","Acessórios de moda",387.8955,10,193.94775,3915.48,"03/03/2019","12:25","Cartão de crédito",36.525,8.7
+"463","326-71-2155","C","Naypyitaw","Normal","Feminino","Viagens e sports",392.6745,4,78.5349,1585.488,"02/03/2019","10:02","Dinheiro",14.79,6.1
+"464","320-32-8842","C","Naypyitaw","Membro","Feminino","Acessórios de moda",120.1122,1,6.00561,121.2432,"3/17/2019","18:58","Dinheiro",1.131,6.4
+"465","470-32-9057","A","Yangon","Membro","Masculino","Acessórios de moda",272.6154,5,68.15385,1375.912,"3/28/2019","15:31","Cartão de crédito",12.835,9.1
+"466","878-30-2331","C","Naypyitaw","Membro","Feminino","Viagens e sports",289.6605,10,144.83025,2923.88,"03/02/2019","11:22","Cartão de crédito",27.275,7.1
+"467","440-59-5691","C","Naypyitaw","Membro","Feminino","Saúde e beleza",197.2665,7,690.43275,1510.8905,"02/08/2019","13:12","Cartão de crédito",130.025,7.7
+"468","554-53-3790","B","Mandalay","Normal","Masculino","Viagens e sports",196.5762,6,58.97286,1190.5632,"3/22/2019","18:33","Dinheiro",11.106,4.5
+"469","746-19-0921","C","Naypyitaw","Normal","Masculino","Acessórios de moda",114.5898,1,5.72949,115.6688,"02/09/2019","10:02","Carteira eletrônica",1.079,7.2
+"470","233-34-0817","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",524.8404,1,26.24202,529.7824,"2/15/2019","11:21","Dinheiro",4.942,8.4
+"471","767-05-1286","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",444.8187,6,133.44561,2694.0432,"1/23/2019","12:10","Carteira eletrônica",25.131,5.4
+"472","340-21-9136","A","Yangon","Membro","Feminino","Viagens e sports",212.6655,4,42.5331,858.672,"1/25/2019","11:40","Dinheiro",8.01,9.7
+"473","405-31-3305","A","Yangon","Membro","Masculino","Acessórios de moda",229.0203,10,114.51015,2311.768,"02/02/2019","18:31","Cartão de crédito",21.565,5.5
+"474","731-59-7531","B","Mandalay","Membro","Masculino","Saúde e beleza",385.3467,8,154.13868,3111.8016,"3/30/2019","17:58","Dinheiro",29.028,4.6
+"475","676-39-6028","A","Yangon","Membro","Feminino","Acessórios eletrônicos",342.1764,5,85.5441,1726.992,"3/30/2019","17:04","Dinheiro",16.11,6.6
+"476","502-05-1910","A","Yangon","Normal","Masculino","Saúde e beleza",346.1058,3,51.91587,1048.0944,"2/25/2019","20:35","Cartão de crédito",9.777,6.3
+"477","485-30-8700","A","Yangon","Normal","Feminino","Viagens e sports",176.6106,5,44.15265,891.368,"3/18/2019","16:10","Cartão de crédito",8.315,4.2
+"478","598-47-9715","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",446.4117,4,89.28234,1802.4608,"03/07/2019","16:54","Carteira eletrônica",16.814,4.4
+"479","701-69-8742","B","Mandalay","Normal","Masculino","Viagens e sports",182.5047,10,91.25235,1842.232,"3/16/2019","10:11","Carteira eletrônica",17.185,6.7
+"480","575-67-1508","A","Yangon","Normal","Masculino","Acessórios eletrônicos",204.966,1,10.2483,206.896,"1/29/2019","11:26","Carteira eletrônica",1.93,6.7
+"481","541-08-3113","C","Naypyitaw","Normal","Masculino","Acessórios de moda",350.3007,8,140.12028,2828.7936,"02/02/2019","20:29","Dinheiro",26.388,8.4
+"482","246-11-3901","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",174.168,10,87.084,1758.08,"2/15/2019","12:12","Dinheiro",16.4,6.2
+"483","674-15-9296","A","Yangon","Normal","Masculino","Viagens e sports",197.2134,5,49.30335,995.352,"01/08/2019","13:05","Carteira eletrônica",9.285,5
+"484","305-18-3552","B","Mandalay","Membro","Masculino","Lar e estilo de vida",320.6178,10,160.3089,3236.368,"02/12/2019","16:19","Dinheiro",30.19,6
+"485","493-65-6248","C","Naypyitaw","Membro","Feminino","Viagens e sports",196.3638,10,98.1819,1982.128,"01/01/2019","19:48","Cartão de crédito",18.49,7
+"486","438-01-4015","B","Mandalay","Membro","Feminino","Viagens e sports",262.7919,4,52.55838,1061.0656,"3/21/2019","15:25","Carteira eletrônica",9.898,6.6
+"487","709-58-4068","B","Mandalay","Normal","Feminino","Acessórios de moda",218.1879,10,109.09395,2202.424,"2/28/2019","14:42","Dinheiro",20.545,7.3
+"488","795-49-7276","A","Yangon","Normal","Masculino","Acessórios de moda",197.2665,4,39.4533,796.496,"3/23/2019","18:59","Carteira eletrônica",7.43,8.3
+"489","556-72-8512","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",121.9176,1,6.09588,123.0656,"1/30/2019","20:47","Dinheiro",1.148,4.3
+"490","627-95-3243","B","Mandalay","Membro","Feminino","Lar e estilo de vida",412.4808,9,185.61636,3747.2832,"02/04/2019","13:21","Carteira eletrônica",34.956,9.8
+"491","686-41-0932","B","Mandalay","Normal","Feminino","Acessórios de moda",184.257,2,18.4257,371.984,"3/13/2019","19:48","Carteira eletrônica",3.47,8.2
+"492","510-09-5628","A","Yangon","Membro","Feminino","Acessórios de moda",104.3946,10,52.1973,1053.776,"3/15/2019","18:20","Cartão de crédito",9.83,7.2
+"493","608-04-3797","B","Mandalay","Membro","Feminino","Saúde e beleza",134.4492,8,53.77968,1085.7216,"03/05/2019","20:24","Carteira eletrônica",10.128,8.7
+"494","148-82-2527","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",64.3572,10,32.1786,649.632,"03/05/2019","13:44","Cartão de crédito",6.06,8.4
+"495","437-53-3084","B","Mandalay","Normal","Masculino","Acessórios de moda",530.4159,2,53.04159,1070.8208,"2/26/2019","11:48","Carteira eletrônica",9.989,7.1
+"496","632-32-4574","B","Mandalay","Normal","Masculino","Viagens e sports",403.1352,8,161.25408,3255.4496,"3/20/2019","14:14","Dinheiro",30.368,5.5
+"497","556-97-7101","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",335.6982,2,33.56982,677.7184,"01/01/2019","15:51","Dinheiro",6.322,8.5
+"498","862-59-8517","C","Naypyitaw","Normal","Feminino","Acessórios de moda",479.1744,6,143.75232,2902.1184,"1/27/2019","11:17","Dinheiro",27.072,6.2
+"499","401-18-8016","B","Mandalay","Membro","Feminino","Viagens e sports",521.0703,1,260.53515,570.1353,"1/21/2019","17:36","Dinheiro",49.065,8.9
+"500","420-18-8989","A","Yangon","Membro","Feminino","Viagens e sports",273.5712,8,109.42848,2209.1776,"02/02/2019","15:47","Dinheiro",20.608,9.6
+"501","277-63-2961","B","Mandalay","Membro","Masculino","Viagens e sports",392.7807,1,196.39035,429.7657,"02/03/2019","15:53","Cartão de crédito",36.985,5.4
+"502","573-98-8548","C","Naypyitaw","Membro","Feminino","Acessórios de moda",169.389,1,8.46945,170.984,"01/05/2019","12:40","Carteira eletrônica",1.595,9.1
+"503","620-02-2046","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",368.514,2,36.8514,743.968,"1/27/2019","19:48","Carteira eletrônica",6.94,9
+"504","282-35-2475","B","Mandalay","Normal","Feminino","Viagens e sports",495.4761,2,49.54761,1000.2832,"3/25/2019","17:53","Dinheiro",9.331,6.3
+"505","511-54-3087","B","Mandalay","Normal","Masculino","Viagens e sports",469.6695,1,234.83475,513.8945,"2/25/2019","16:36","Cartão de crédito",44.225,9.5
+"506","726-29-6793","A","Yangon","Membro","Masculino","Acessórios eletrônicos",128.3958,8,51.35832,1036.8384,"1/28/2019","20:54","Carteira eletrônica",9.672,9.8
+"507","387-49-4215","B","Mandalay","Membro","Feminino","Viagens e sports",257.535,3,38.63025,779.88,"01/08/2019","12:50","Dinheiro",7.275,6.7
+"508","862-17-9201","B","Mandalay","Normal","Feminino","Acessórios de moda",446.3055,6,133.89165,2703.048,"1/29/2019","10:48","Cartão de crédito",25.215,7.7
+"509","291-21-5991","B","Mandalay","Membro","Masculino","Saúde e beleza",325.4499,5,813.62475,1780.4745,"3/29/2019","14:28","Dinheiro",153.225,7
+"510","602-80-9671","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",84.6945,6,25.40835,512.952,"02/09/2019","17:15","Cartão de crédito",4.785,5.1
+"511","347-72-6115","B","Mandalay","Membro","Feminino","Viagens e sports",481.8294,7,168.64029,3404.5648,"1/16/2019","18:03","Cartão de crédito",31.759,6.2
+"512","209-61-0206","A","Yangon","Normal","Feminino","Lar e estilo de vida",227.8521,5,569.63025,1246.5355,"01/05/2019","17:29","Carteira eletrônica",107.275,6.1
+"513","595-27-4851","A","Yangon","Normal","Feminino","Acessórios de moda",288.2268,7,100.87938,2036.5856,"1/27/2019","18:05","Carteira eletrônica",18.998,9.3
+"514","189-52-0236","A","Yangon","Normal","Masculino","Acessórios eletrônicos",528.6105,7,1850.13675,4048.6985,"3/14/2019","12:07","Dinheiro",348.425,7.6
+"515","503-07-0930","C","Naypyitaw","Membro","Masculino","Viagens e sports",310.0509,7,1085.17815,2374.7213,"2/23/2019","19:49","Cartão de crédito",204.365,8.2
+"516","413-20-6708","C","Naypyitaw","Membro","Feminino","Acessórios de moda",273.3057,1,136.65285,299.0407,"3/18/2019","15:52","Carteira eletrônica",25.735,8.5
+"517","425-85-2085","B","Mandalay","Membro","Masculino","Saúde e beleza",291.3066,5,72.82665,1470.248,"3/29/2019","16:48","Carteira eletrônica",13.715,9.8
+"518","521-18-7827","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",209.1609,5,522.90225,1144.2795,"1/22/2019","20:46","Cartão de crédito",98.475,8.7
+"519","220-28-1851","A","Yangon","Normal","Masculino","Lar e estilo de vida",184.4163,2,18.44163,372.3056,"03/01/2019","18:14","Carteira eletrônica",3.473,9.7
+"520","600-38-9738","C","Naypyitaw","Membro","Masculino","Viagens e sports",381.8952,5,95.4738,1927.456,"1/17/2019","15:05","Cartão de crédito",17.98,4.3
+"521","734-91-1155","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",242.7201,3,364.08015,796.7253,"3/26/2019","10:34","Cartão de crédito",68.565,7.7
+"522","451-28-5717","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",441.6327,6,132.48981,2674.7472,"3/20/2019","11:23","Dinheiro",24.951,7.3
+"523","609-81-8548","A","Yangon","Membro","Feminino","Lar e estilo de vida",198.8064,6,59.64192,1204.0704,"02/06/2019","13:55","Cartão de crédito",11.232,5.9
+"524","133-14-7229","C","Naypyitaw","Normal","Masculino","Saúde e beleza",333.8397,2,33.38397,673.9664,"01/01/2019","11:43","Dinheiro",6.287,5
+"525","534-01-4457","A","Yangon","Normal","Masculino","Acessórios de moda",433.8801,6,130.16403,2627.7936,"1/27/2019","14:36","Cartão de crédito",24.513,8
+"526","719-89-8991","A","Yangon","Membro","Feminino","Viagens e sports",485.3871,5,1213.46775,2655.4605,"2/25/2019","16:03","Carteira eletrônica",228.525,7.1
+"527","286-62-6248","B","Mandalay","Normal","Masculino","Acessórios de moda",208.2051,4,41.64102,840.6624,"1/16/2019","20:03","Cartão de crédito",7.842,9
+"528","339-38-9982","B","Mandalay","Membro","Masculino","Acessórios de moda",317.8566,2,31.78566,641.6992,"1/13/2019","14:55","Carteira eletrônica",5.986,6.7
+"529","827-44-5872","B","Mandalay","Membro","Feminino","Acessórios de moda",288.6516,10,144.3258,2913.696,"02/07/2019","11:28","Cartão de crédito",27.18,6.1
+"530","827-77-7633","A","Yangon","Normal","Masculino","Viagens e sports",520.8579,9,2343.86055,5129.1261,"2/17/2019","19:41","Dinheiro",441.405,9.3
+"531","287-83-1405","A","Yangon","Normal","Masculino","Saúde e beleza",135.0333,6,40.50999,817.8288,"02/12/2019","19:01","Carteira eletrônica",7.629,7
+"532","435-13-4908","A","Yangon","Membro","Masculino","Acessórios de moda",460.2708,8,184.10832,3716.8384,"1/24/2019","18:04","Cartão de crédito",34.672,7.2
+"533","857-67-9057","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",121.8645,10,60.93225,1230.12,"02/06/2019","19:20","Carteira eletrônica",11.475,8.2
+"534","236-27-1144","C","Naypyitaw","Normal","Feminino","Acessórios de moda",86.6061,9,389.72745,852.8499,"3/26/2019","10:31","Carteira eletrônica",73.395,8.4
+"535","892-05-6689","A","Yangon","Normal","Feminino","Lar e estilo de vida",150.3792,5,37.5948,758.976,"03/11/2019","13:28","Carteira eletrônica",7.08,6.2
+"536","583-41-4548","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",88.5177,7,309.81195,677.9689,"02/07/2019","11:36","Carteira eletrônica",58.345,7.4
+"537","339-12-4827","B","Mandalay","Membro","Feminino","Acessórios de moda",392.7276,1,19.63638,396.4256,"01/05/2019","11:32","Cartão de crédito",3.698,5
+"538","643-38-7867","A","Yangon","Normal","Masculino","Lar e estilo de vida",520.0614,1,26.00307,524.9584,"03/07/2019","11:44","Carteira eletrônica",4.897,6.9
+"539","308-81-0538","A","Yangon","Normal","Feminino","Acessórios de moda",387.8955,4,77.5791,1566.192,"2/25/2019","17:16","Cartão de crédito",14.61,4.9
+"540","358-88-9262","C","Naypyitaw","Membro","Feminino","Acessórios de moda",464.5188,6,139.35564,2813.3568,"02/01/2019","18:43","Carteira eletrônica",26.244,5.1
+"541","460-35-4390","A","Yangon","Normal","Masculino","Lar e estilo de vida",162.9108,3,24.43662,493.3344,"1/22/2019","11:00","Carteira eletrônica",4.602,9.1
+"542","343-87-0864","C","Naypyitaw","Membro","Masculino","Saúde e beleza",402.9228,1,20.14614,406.7168,"01/03/2019","10:30","Cartão de crédito",3.794,7.1
+"543","173-50-1108","B","Mandalay","Membro","Feminino","Viagens e sports",107.1558,4,21.43116,432.6592,"2/13/2019","12:14","Cartão de crédito",4.036,5
+"544","243-47-2663","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",99.6687,6,29.90061,603.6432,"1/28/2019","16:43","Cartão de crédito",5.631,5.5
+"545","841-18-8232","B","Mandalay","Normal","Feminino","Acessórios de moda",378.072,1,18.9036,381.632,"01/05/2019","20:40","Cartão de crédito",3.56,9.2
+"546","701-23-5550","B","Mandalay","Membro","Masculino","Lar e estilo de vida",206.0811,4,41.21622,832.0864,"3/19/2019","13:40","Carteira eletrônica",7.762,4.9
+"547","647-50-1224","A","Yangon","Normal","Feminino","Acessórios de moda",156.2202,10,78.1101,1576.912,"01/12/2019","16:23","Carteira eletrônica",14.71,8.9
+"548","541-48-8554","A","Yangon","Normal","Masculino","Viagens e sports",323.6445,9,1456.40025,3187.0755,"01/07/2019","12:08","Cartão de crédito",274.275,6
+"549","539-21-7227","B","Mandalay","Normal","Feminino","Viagens e sports",273.6774,5,68.41935,1381.272,"1/26/2019","17:45","Dinheiro",12.885,4.2
+"550","213-32-1216","A","Yangon","Normal","Feminino","Acessórios eletrônicos",350.7786,6,105.23358,2124.4896,"1/23/2019","10:28","Dinheiro",19.818,7.3
+"551","747-58-7183","B","Mandalay","Normal","Masculino","Acessórios de moda",304.1037,3,456.15555,998.2161,"02/09/2019","20:31","Carteira eletrônica",85.905,6.5
+"552","582-52-8065","B","Mandalay","Normal","Feminino","Acessórios de moda",288.3861,9,1297.73745,2839.8699,"2/22/2019","10:49","Dinheiro",244.395,8.9
+"553","210-57-1719","B","Mandalay","Normal","Feminino","Saúde e beleza",309.2544,9,139.16448,2809.4976,"02/05/2019","12:34","Dinheiro",26.208,9.7
+"554","399-69-4630","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",117.9351,6,35.38053,714.2736,"03/07/2019","10:23","Cartão de crédito",6.663,8.6
+"555","134-75-2619","A","Yangon","Membro","Masculino","Acessórios eletrônicos",102.5892,7,35.90622,724.8864,"3/25/2019","18:51","Dinheiro",6.762,6.9
+"556","356-44-8813","B","Mandalay","Normal","Masculino","Lar e estilo de vida",199.0188,3,29.85282,602.6784,"1/20/2019","13:45","Cartão de crédito",5.622,7.7
+"557","198-66-9832","B","Mandalay","Membro","Feminino","Acessórios de moda",382.5324,2,38.25324,772.2688,"02/04/2019","19:38","Dinheiro",7.204,9.5
+"558","283-26-5248","C","Naypyitaw","Membro","Feminino","Acessórios de moda",523.1412,10,261.5706,5280.672,"1/30/2019","20:23","Carteira eletrônica",49.26,4.5
+"559","712-39-0363","A","Yangon","Membro","Masculino","Acessórios de moda",221.2146,6,66.36438,1339.7856,"01/02/2019","15:24","Carteira eletrônica",12.498,5.6
+"560","218-59-9410","A","Yangon","Membro","Feminino","Lar e estilo de vida",384.5502,3,57.68253,1164.5136,"3/29/2019","16:54","Carteira eletrônica",10.863,8.2
+"561","174-75-0888","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",114.5898,9,51.56541,1041.0192,"3/14/2019","12:32","Dinheiro",9.711,7.3
+"562","866-99-7614","C","Naypyitaw","Normal","Masculino","Acessórios de moda",473.652,10,236.826,4781.12,"02/11/2019","15:42","Cartão de crédito",44.6,4.4
+"563","134-54-4720","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",225.2502,8,90.10008,1818.9696,"1/30/2019","13:58","Carteira eletrônica",16.968,5.7
+"564","760-90-2357","A","Yangon","Membro","Masculino","Acessórios eletrônicos",395.6481,6,118.69443,2396.2416,"3/20/2019","15:08","Carteira eletrônica",22.353,5
+"565","514-37-2845","B","Mandalay","Normal","Masculino","Acessórios de moda",527.0175,2,52.70175,1063.96,"3/20/2019","13:02","Dinheiro",9.925,9
+"566","698-98-5964","A","Yangon","Normal","Feminino","Acessórios de moda",431.2251,10,215.61255,4352.856,"1/17/2019","13:01","Cartão de crédito",40.605,6.3
+"567","718-57-9773","C","Naypyitaw","Normal","Feminino","Viagens e sports",261.9423,10,130.97115,2644.088,"02/03/2019","16:40","Cartão de crédito",24.665,9.4
+"568","651-88-7328","A","Yangon","Normal","Feminino","Acessórios de moda",349.0794,9,157.08573,3171.2976,"01/01/2019","13:55","Dinheiro",29.583,7.7
+"569","241-11-2261","B","Mandalay","Normal","Feminino","Acessórios de moda",424.0566,7,148.41981,2996.3472,"01/10/2019","10:33","Cartão de crédito",27.951,5.5
+"570","408-26-9866","C","Naypyitaw","Normal","Feminino","Viagens e sports",392.8338,7,137.49183,2775.7296,"03/02/2019","16:42","Carteira eletrônica",25.893,4.1
+"571","834-83-1826","B","Mandalay","Membro","Feminino","Lar e estilo de vida",435.6324,5,108.9081,2198.672,"2/25/2019","17:16","Cartão de crédito",20.51,7.6
+"572","343-61-3544","B","Mandalay","Membro","Masculino","Viagens e sports",141.6177,10,70.80885,1429.512,"1/29/2019","11:48","Dinheiro",13.335,8.6
+"573","239-48-4278","A","Yangon","Membro","Masculino","Acessórios de moda",53.7903,7,188.26605,411.9871,"03/10/2019","19:35","Carteira eletrônica",35.455,8.3
+"574","355-34-6244","B","Mandalay","Normal","Masculino","Acessórios de moda",384.3909,2,38.43909,776.0208,"1/13/2019","19:55","Cartão de crédito",7.239,8.1
+"575","550-84-8664","A","Yangon","Normal","Masculino","Viagens e sports",456.1821,5,1140.45525,2495.6855,"3/22/2019","14:33","Cartão de crédito",214.775,8.6
+"576","339-96-8318","B","Mandalay","Membro","Masculino","Acessórios de moda",431.7561,7,1511.14635,3306.8777,"03/01/2019","19:49","Carteira eletrônica",284.585,6.3
+"577","458-61-0011","B","Mandalay","Normal","Masculino","Acessórios de moda",320.193,4,64.0386,1292.832,"2/20/2019","18:43","Dinheiro",12.06,5.8
+"578","592-34-6155","C","Naypyitaw","Normal","Masculino","Acessórios de moda",168.6987,4,33.73974,681.1488,"1/14/2019","14:43","Carteira eletrônica",6.354,6.2
+"579","797-88-0493","A","Yangon","Normal","Feminino","Saúde e beleza",341.2737,4,68.25474,1377.9488,"3/26/2019","13:54","Dinheiro",12.854,7.7
+"580","207-73-1363","B","Mandalay","Normal","Masculino","Saúde e beleza",369.0981,2,36.90981,745.1472,"03/01/2019","12:15","Carteira eletrônica",6.951,8.1
+"581","390-31-6381","C","Naypyitaw","Normal","Masculino","Acessórios de moda",144.5382,3,21.68073,437.6976,"01/07/2019","12:37","Dinheiro",4.083,7.3
+"582","443-82-0585","A","Yangon","Membro","Feminino","Saúde e beleza",412.4808,4,82.49616,1665.4592,"02/01/2019","19:54","Dinheiro",15.536,8.4
+"583","339-18-7061","C","Naypyitaw","Membro","Feminino","Acessórios de moda",493.7238,2,49.37238,996.7456,"2/13/2019","15:06","Cartão de crédito",9.298,8
+"584","359-90-3665","B","Mandalay","Membro","Feminino","Acessórios de moda",96.0048,4,19.20096,387.6352,"1/14/2019","18:03","Cartão de crédito",3.616,9.5
+"585","375-72-3056","B","Mandalay","Normal","Masculino","Viagens e sports",334.8486,3,50.22729,1014.0048,"1/19/2019","15:58","Carteira eletrônica",9.459,7
+"586","127-47-6963","A","Yangon","Normal","Masculino","Saúde e beleza",274.5801,4,54.91602,1108.6624,"03/09/2019","13:53","Cartão de crédito",10.342,9.8
+"587","278-86-2735","A","Yangon","Normal","Feminino","Acessórios de moda",277.9254,3,41.68881,841.6272,"3/27/2019","14:03","Dinheiro",7.851,9.2
+"588","695-28-6250","A","Yangon","Normal","Feminino","Viagens e sports",228.6486,5,57.16215,1154.008,"02/04/2019","16:38","Carteira eletrônica",10.765,7.7
+"589","379-17-6588","C","Naypyitaw","Normal","Masculino","Acessórios de moda",316.5291,10,158.26455,3195.096,"3/14/2019","11:07","Dinheiro",29.805,5.3
+"590","227-50-3718","A","Yangon","Normal","Masculino","Saúde e beleza",77.6322,5,19.40805,391.816,"03/04/2019","12:23","Dinheiro",3.655,4.4
+"591","302-15-2162","C","Naypyitaw","Membro","Masculino","Saúde e beleza",247.0743,6,74.12229,1496.4048,"03/03/2019","10:54","Cartão de crédito",13.959,4.3
+"592","788-07-8452","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",128.7144,7,45.05004,909.4848,"1/27/2019","17:38","Carteira eletrônica",8.484,9.4
+"593","560-49-6611","A","Yangon","Membro","Feminino","Viagens e sports",242.0298,1,12.10149,244.3088,"02/07/2019","14:13","Dinheiro",2.279,9.8
+"594","880-35-0356","A","Yangon","Membro","Feminino","Viagens e sports",399.312,3,59.8968,1209.216,"02/05/2019","11:51","Carteira eletrônica",11.28,4.8
+"595","585-11-6748","B","Mandalay","Membro","Masculino","Viagens e sports",514.008,3,77.1012,1556.544,"3/15/2019","13:05","Dinheiro",14.52,5.3
+"596","470-31-3286","B","Mandalay","Normal","Masculino","Saúde e beleza",78.6942,3,11.80413,238.3056,"03/01/2019","11:30","Cartão de crédito",2.223,8.7
+"597","152-68-2907","A","Yangon","Normal","Masculino","Acessórios de moda",277.182,3,41.5773,839.376,"2/15/2019","13:30","Cartão de crédito",7.83,9.5
+"598","123-35-4896","C","Naypyitaw","Normal","Feminino","Viagens e sports",247.7646,9,111.49407,2250.8784,"2/17/2019","19:11","Carteira eletrônica",20.997,5.3
+"599","258-69-7810","C","Naypyitaw","Normal","Feminino","Acessórios de moda",195.6735,5,489.18375,1070.4925,"1/26/2019","18:53","Dinheiro",92.125,9.2
+"600","334-64-2006","A","Yangon","Membro","Feminino","Lar e estilo de vida",373.3992,2,37.33992,753.8304,"3/24/2019","14:22","Carteira eletrônica",7.032,9.6
+"601","219-61-4139","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",441.1548,1,22.05774,445.3088,"1/23/2019","17:16","Carteira eletrônica",4.154,6.4
+"602","881-41-7302","C","Naypyitaw","Normal","Feminino","Acessórios de moda",345.0969,1,172.54845,377.5919,"1/26/2019","10:06","Cartão de crédito",32.495,4.5
+"603","373-09-4567","C","Naypyitaw","Normal","Masculino","Acessórios de moda",411.8436,10,205.9218,4157.216,"3/14/2019","20:35","Carteira eletrônica",38.78,6.9
+"604","642-30-6693","B","Mandalay","Normal","Feminino","Viagens e sports",289.4481,6,86.83443,1753.0416,"3/17/2019","13:54","Carteira eletrônica",16.353,7.8
+"605","484-22-8230","C","Naypyitaw","Membro","Feminino","Acessórios de moda",275.5359,7,964.37565,2110.3663,"01/08/2019","20:08","Dinheiro",181.615,4.5
+"606","830-58-2383","B","Mandalay","Normal","Masculino","Lar e estilo de vida",168.5925,4,33.7185,680.72,"02/08/2019","15:26","Dinheiro",6.35,8.6
+"607","559-98-9873","A","Yangon","Membro","Feminino","Acessórios de moda",284.8815,7,997.08525,2181.9455,"02/10/2019","12:56","Carteira eletrônica",187.775,5.2
+"608","544-32-5024","C","Naypyitaw","Membro","Feminino","Acessórios de moda",264.3849,4,52.87698,1067.4976,"3/28/2019","19:16","Cartão de crédito",9.958,6.4
+"609","318-12-0304","A","Yangon","Normal","Masculino","Acessórios de moda",162.5391,1,81.26955,177.8441,"1/23/2019","12:20","Carteira eletrônica",15.305,5.2
+"610","349-97-8902","B","Mandalay","Membro","Masculino","Acessórios de moda",307.3959,2,30.73959,620.5808,"1/17/2019","10:37","Carteira eletrônica",5.789,8.9
+"611","421-95-9805","A","Yangon","Normal","Feminino","Acessórios eletrônicos",153.7776,1,7.68888,155.2256,"02/07/2019","10:18","Cartão de crédito",1.448,6.2
+"612","277-35-5865","C","Naypyitaw","Membro","Feminino","Acessórios de moda",525.5307,9,2364.88815,5175.1413,"03/09/2019","11:23","Dinheiro",445.365,6.7
+"613","789-23-8625","B","Mandalay","Membro","Masculino","Acessórios de moda",494.9982,3,74.24973,1498.9776,"1/24/2019","11:45","Dinheiro",13.983,7.2
+"614","284-54-4231","C","Naypyitaw","Membro","Masculino","Viagens e sports",429.7383,1,214.86915,470.2033,"1/19/2019","16:08","Cartão de crédito",40.465,9
+"615","443-59-0061","A","Yangon","Membro","Masculino","Acessórios de moda",358.1595,10,179.07975,3615.32,"02/03/2019","11:25","Carteira eletrônica",33.725,4.2
+"616","509-29-3912","A","Yangon","Membro","Feminino","Viagens e sports",205.6032,9,92.52144,1867.8528,"3/20/2019","12:24","Carteira eletrônica",17.424,4.2
+"617","327-40-9673","B","Mandalay","Membro","Masculino","Viagens e sports",385.506,6,115.6518,2334.816,"1/13/2019","19:51","Dinheiro",21.78,6.9
+"618","840-19-2096","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",466.8021,5,1167.00525,2553.7855,"3/14/2019","18:10","Carteira eletrônica",219.775,4.4
+"619","828-46-6863","A","Yangon","Membro","Masculino","Acessórios de moda",523.1943,6,156.95829,3168.7248,"1/23/2019","11:22","Cartão de crédito",29.559,4
+"620","641-96-3695","C","Naypyitaw","Membro","Feminino","Acessórios de moda",230.7726,6,69.23178,1397.6736,"02/07/2019","17:55","Carteira eletrônica",13.038,8.5
+"621","420-97-3340","A","Yangon","Normal","Feminino","Acessórios de moda",380.6208,3,57.09312,1152.6144,"3/28/2019","15:30","Cartão de crédito",10.752,9.2
+"622","436-54-4512","A","Yangon","Membro","Feminino","Acessórios de moda",486.4491,1,243.22455,532.2541,"3/20/2019","19:44","Dinheiro",45.805,9.8
+"623","670-79-6321","B","Mandalay","Membro","Feminino","Lar e estilo de vida",502.2729,7,1757.95515,3846.9753,"1/17/2019","15:27","Cartão de crédito",331.065,4.9
+"624","852-62-7105","B","Mandalay","Normal","Feminino","Acessórios de moda",442.0575,10,221.02875,4462.2,"01/12/2019","11:25","Cartão de crédito",41.625,4.4
+"625","598-06-7312","B","Mandalay","Membro","Masculino","Acessórios de moda",485.0685,1,242.53425,530.7435,"2/16/2019","15:42","Dinheiro",45.675,6.8
+"626","135-13-8269","B","Mandalay","Membro","Feminino","Acessórios de moda",418.8528,2,41.88528,845.5936,"1/26/2019","16:04","Dinheiro",7.888,9.1
+"627","816-57-2053","A","Yangon","Normal","Masculino","Viagens e sports",323.2197,2,32.32197,652.5264,"03/09/2019","12:37","Carteira eletrônica",6.087,8.7
+"628","628-90-8624","B","Mandalay","Membro","Masculino","Saúde e beleza",438.4998,10,219.2499,4426.288,"3/14/2019","14:41","Dinheiro",41.29,5
+"629","856-66-2701","A","Yangon","Membro","Masculino","Lar e estilo de vida",283.023,3,42.45345,857.064,"1/25/2019","14:19","Carteira eletrônica",7.995,7.5
+"630","308-39-1707","A","Yangon","Normal","Feminino","Acessórios de moda",64.1979,1,3.209895,64.8024,"1/26/2019","18:19","Cartão de crédito",0.6045,8.2
+"631","149-61-1929","A","Yangon","Normal","Masculino","Viagens e sports",340.8489,10,170.42445,3440.584,"1/19/2019","14:08","Cartão de crédito",32.095,6.7
+"632","655-07-2265","A","Yangon","Normal","Masculino","Acessórios eletrônicos",415.8261,3,623.73915,1364.9433,"03/05/2019","16:38","Carteira eletrônica",117.465,5.4
+"633","589-02-8023","A","Yangon","Membro","Masculino","Acessórios de moda",444.8187,2,44.48187,898.0144,"1/15/2019","10:54","Cartão de crédito",8.377,7
+"634","420-04-7590","B","Mandalay","Normal","Masculino","Lar e estilo de vida",529.407,3,79.41105,1603.176,"3/18/2019","11:29","Carteira eletrônica",14.955,4.7
+"635","182-88-2763","B","Mandalay","Membro","Masculino","Acessórios de moda",424.3221,3,636.48315,1392.8313,"3/20/2019","19:28","Cartão de crédito",119.865,5
+"636","188-55-0967","B","Mandalay","Membro","Masculino","Saúde e beleza",352.9557,10,176.47785,3562.792,"1/15/2019","15:01","Cartão de crédito",33.235,5
+"637","610-46-4100","A","Yangon","Normal","Masculino","Saúde e beleza",153.7245,7,538.03575,1177.3965,"03/03/2019","20:31","Cartão de crédito",101.325,6
+"638","318-81-2368","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",245.322,1,12.2661,247.632,"3/19/2019","12:16","Dinheiro",2.31,6.3
+"639","364-33-8584","B","Mandalay","Membro","Feminino","Acessórios de moda",93.6153,5,234.03825,512.1515,"03/08/2019","15:27","Dinheiro",44.075,8.5
+"640","665-63-9737","B","Mandalay","Normal","Masculino","Acessórios de moda",278.3502,3,41.75253,842.9136,"2/27/2019","17:36","Carteira eletrônica",7.863,7.5
+"641","695-09-5146","B","Mandalay","Membro","Feminino","Acessórios de moda",524.5749,3,786.86235,1721.9097,"2/23/2019","20:00","Carteira eletrônica",148.185,6.4
+"642","155-45-3814","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",470.2005,8,188.0802,3797.024,"3/19/2019","15:29","Carteira eletrônica",35.42,4.7
+"643","794-32-2436","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",295.6077,2,29.56077,596.7824,"3/27/2019","15:08","Carteira eletrônica",5.567,6
+"644","131-15-8856","C","Naypyitaw","Membro","Feminino","Acessórios de moda",385.0812,8,154.03248,3109.6576,"3/30/2019","19:26","Cartão de crédito",29.008,4
+"645","273-84-2164","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",63.9855,5,159.96375,350.0525,"2/16/2019","15:53","Carteira eletrônica",30.125,5.5
+"646","706-36-6154","A","Yangon","Membro","Masculino","Lar e estilo de vida",102.8016,9,46.26072,933.9264,"1/18/2019","18:43","Carteira eletrônica",8.712,8.7
+"647","778-89-7974","C","Naypyitaw","Normal","Masculino","Saúde e beleza",372.8151,6,111.84453,2257.9536,"3/30/2019","14:58","Dinheiro",21.063,7.4
+"648","574-31-8277","B","Mandalay","Membro","Masculino","Acessórios de moda",178.5753,1,89.28765,195.3903,"3/20/2019","19:55","Dinheiro",16.815,5.6
+"649","859-71-0933","C","Naypyitaw","Membro","Feminino","Viagens e sports",82.2519,2,8.22519,166.0528,"1/16/2019","15:10","Dinheiro",1.549,6.3
+"650","740-11-5257","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",131.3694,10,65.6847,1326.064,"2/24/2019","16:44","Dinheiro",12.37,7.1
+"651","369-82-2676","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",401.7546,5,100.43865,2027.688,"1/15/2019","18:22","Carteira eletrônica",18.915,7.8
+"652","563-47-4072","B","Mandalay","Normal","Feminino","Saúde e beleza",296.3511,6,88.90533,1794.8496,"1/22/2019","11:52","Dinheiro",16.743,9.9
+"653","742-04-5161","A","Yangon","Membro","Masculino","Lar e estilo de vida",386.4618,10,193.2309,3901.008,"02/03/2019","17:24","Dinheiro",36.39,7.3
+"654","149-15-7606","B","Mandalay","Membro","Masculino","Viagens e sports",198.1692,9,89.17614,1800.3168,"03/06/2019","15:31","Carteira eletrônica",16.794,5.1
+"655","133-77-3154","B","Mandalay","Membro","Masculino","Acessórios de moda",319.5558,4,63.91116,1290.2592,"2/16/2019","18:04","Cartão de crédito",12.036,9.4
+"656","169-52-4504","A","Yangon","Normal","Feminino","Acessórios eletrônicos",83.3139,3,124.97085,273.4767,"3/14/2019","14:13","Cartão de crédito",23.535,5.8
+"657","250-81-7186","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",529.3539,1,264.67695,579.1989,"2/27/2019","10:23","Cartão de crédito",49.845,8
+"658","562-12-5430","A","Yangon","Membro","Feminino","Acessórios de moda",468.0765,3,702.11475,1536.4545,"1/18/2019","10:11","Carteira eletrônica",132.225,7.9
+"659","816-72-8853","A","Yangon","Membro","Feminino","Viagens e sports",148.3083,5,370.77075,811.3665,"1/29/2019","15:48","Dinheiro",69.825,5.9
+"660","491-38-3499","A","Yangon","Membro","Masculino","Acessórios de moda",294.4395,1,147.21975,322.1645,"2/26/2019","17:46","Cartão de crédito",27.725,4.9
+"661","322-02-2271","B","Mandalay","Normal","Feminino","Viagens e sports",228.1707,3,342.25605,748.9671,"02/03/2019","11:46","Dinheiro",64.455,9.3
+"662","842-29-4695","C","Naypyitaw","Membro","Masculino","Viagens e sports",91.0134,7,31.85469,643.0928,"1/16/2019","12:07","Cartão de crédito",5.999,7.9
+"663","725-67-2480","B","Mandalay","Membro","Feminino","Acessórios de moda",311.9625,6,93.58875,1889.4,"3/24/2019","18:14","Cartão de crédito",17.625,5.9
+"664","641-51-2661","C","Naypyitaw","Membro","Feminino","Acessórios de moda",462.501,10,231.2505,4668.56,"02/12/2019","14:45","Cartão de crédito",43.55,9.9
+"665","714-02-3114","C","Naypyitaw","Normal","Feminino","Viagens e sports",524.628,2,52.4628,1059.136,"2/21/2019","11:39","Dinheiro",9.88,7.7
+"666","518-17-2983","A","Yangon","Normal","Feminino","Acessórios de moda",258.2253,4,51.64506,1042.6272,"02/04/2019","15:44","Carteira eletrônica",9.726,7.6
+"667","779-42-2410","B","Mandalay","Membro","Masculino","Acessórios de moda",306.5994,3,45.98991,928.4592,"2/20/2019","13:06","Carteira eletrônica",8.661,7.7
+"668","190-14-3147","B","Mandalay","Normal","Feminino","Saúde e beleza",95.4207,4,19.08414,385.2768,"2/23/2019","20:43","Carteira eletrônica",3.594,6.4
+"669","408-66-6712","C","Naypyitaw","Membro","Feminino","Saúde e beleza",253.3401,6,76.00203,1534.3536,"2/16/2019","14:19","Carteira eletrônica",14.313,4.4
+"670","679-22-6530","B","Mandalay","Normal","Feminino","Viagens e sports",215.6922,2,21.56922,435.4464,"1/17/2019","10:01","Cartão de crédito",4.062,4.1
+"671","588-47-8641","A","Yangon","Membro","Masculino","Acessórios de moda",297.5724,10,148.7862,3003.744,"1/14/2019","19:30","Carteira eletrônica",28.02,4.4
+"672","642-61-4706","B","Mandalay","Membro","Masculino","Acessórios de moda",495.954,2,49.5954,1001.248,"3/30/2019","16:34","Dinheiro",9.34,5.5
+"673","576-31-4774","B","Mandalay","Normal","Feminino","Saúde e beleza",389.8071,3,584.71065,1279.5363,"03/02/2019","13:10","Carteira eletrônica",110.115,4
+"674","556-41-6224","C","Naypyitaw","Normal","Masculino","Saúde e beleza",178.6284,8,71.45136,1442.4832,"2/15/2019","17:10","Cartão de crédito",13.456,9.3
+"675","811-03-8790","A","Yangon","Normal","Feminino","Acessórios eletrônicos",241.4988,10,120.7494,2437.728,"03/01/2019","10:22","Cartão de crédito",22.74,4.8
+"676","242-11-3142","B","Mandalay","Membro","Masculino","Acessórios de moda",444.8187,2,44.48187,898.0144,"2/24/2019","19:57","Dinheiro",8.377,4.6
+"677","752-23-3760","B","Mandalay","Membro","Feminino","Viagens e sports",340.2648,7,119.09268,2404.2816,"2/19/2019","19:29","Cartão de crédito",22.428,7.3
+"678","274-05-5470","A","Yangon","Membro","Feminino","Acessórios de moda",390.1257,4,78.02514,1575.1968,"2/23/2019","18:30","Dinheiro",14.694,6
+"679","648-94-3045","C","Naypyitaw","Normal","Masculino","Saúde e beleza",313.0245,10,156.51225,3159.72,"02/07/2019","14:27","Carteira eletrônica",29.475,8.1
+"680","130-67-4723","A","Yangon","Membro","Masculino","Acessórios de moda",257.535,6,77.2605,1559.76,"01/11/2019","13:57","Carteira eletrônica",14.55,9.4
+"681","528-87-5606","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",209.6388,1,10.48194,211.6128,"02/12/2019","19:43","Dinheiro",1.974,6.5
+"682","320-85-2052","B","Mandalay","Normal","Feminino","Viagens e sports",184.8411,1,92.42055,202.2461,"1/14/2019","10:11","Cartão de crédito",17.405,7
+"683","370-96-0655","C","Naypyitaw","Normal","Feminino","Acessórios de moda",261.8892,6,78.56676,1586.1312,"01/09/2019","13:46","Carteira eletrônica",14.796,7.1
+"684","105-10-6182","A","Yangon","Membro","Masculino","Acessórios de moda",114.0588,2,11.40588,230.2656,"2/27/2019","12:22","Carteira eletrônica",2.148,6.6
+"685","510-79-0415","B","Mandalay","Membro","Feminino","Viagens e sports",122.5548,6,36.76644,742.2528,"1/24/2019","19:20","Carteira eletrônica",6.924,4.9
+"686","241-96-5076","B","Mandalay","Membro","Feminino","Lar e estilo de vida",260.721,2,26.0721,526.352,"01/08/2019","12:58","Cartão de crédito",4.91,6.4
+"687","767-97-4650","B","Mandalay","Membro","Feminino","Viagens e sports",344.2473,2,34.42473,694.9776,"01/08/2019","11:59","Cartão de crédito",6.483,8
+"688","648-83-1321","A","Yangon","Membro","Masculino","Lar e estilo de vida",337.5036,10,168.7518,3406.816,"1/16/2019","17:59","Dinheiro",31.78,4.3
+"689","173-57-2300","C","Naypyitaw","Membro","Masculino","Viagens e sports",386.9928,2,38.69928,781.2736,"3/13/2019","12:51","Dinheiro",7.288,6.1
+"690","305-03-2383","A","Yangon","Normal","Feminino","Acessórios de moda",356.301,3,53.44515,1078.968,"2/15/2019","10:36","Dinheiro",10.065,7.5
+"691","394-55-6384","C","Naypyitaw","Membro","Feminino","Viagens e sports",372.7089,9,1677.19005,3670.2351,"1/25/2019","13:38","Dinheiro",315.855,6.7
+"692","266-20-6657","C","Naypyitaw","Membro","Masculino","Acessórios de moda",292.2624,7,102.29184,2065.1008,"03/12/2019","19:39","Carteira eletrônica",19.264,5.2
+"693","689-05-1884","A","Yangon","Membro","Masculino","Saúde e beleza",258.2253,10,129.11265,2606.568,"03/04/2019","12:44","Dinheiro",24.315,8.8
+"694","196-01-2849","C","Naypyitaw","Membro","Feminino","Acessórios de moda",389.6478,7,136.37673,2753.2176,"02/10/2019","13:56","Dinheiro",25.683,9.5
+"695","372-62-5264","C","Naypyitaw","Normal","Feminino","Acessórios de moda",279.306,9,125.6877,2537.424,"1/16/2019","14:42","Dinheiro",23.67,7.6
+"696","800-09-8606","A","Yangon","Membro","Feminino","Lar e estilo de vida",463.9347,5,1159.83675,2538.0985,"1/29/2019","19:45","Dinheiro",218.425,6.6
+"697","182-52-7000","A","Yangon","Membro","Feminino","Viagens e sports",143.5824,4,28.71648,579.7376,"01/01/2019","20:26","Carteira eletrônica",5.408,6.9
+"698","826-58-8051","B","Mandalay","Normal","Masculino","Lar e estilo de vida",330.2289,4,66.04578,1333.3536,"01/06/2019","19:46","Carteira eletrônica",12.438,4.3
+"699","868-06-0466","A","Yangon","Membro","Masculino","Acessórios eletrônicos",369.4698,9,166.26141,3356.5392,"2/19/2019","19:38","Cartão de crédito",31.311,7.8
+"700","751-41-9720","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",517.725,10,258.8625,5226,"01/12/2019","16:18","Carteira eletrônica",48.75,8
+"701","626-43-7888","C","Naypyitaw","Normal","Feminino","Acessórios de moda",320.7771,8,128.31084,2590.3808,"02/07/2019","12:23","Carteira eletrônica",24.164,9.6
+"702","176-64-7711","B","Mandalay","Normal","Masculino","Acessórios de moda",171.6192,3,25.74288,519.7056,"3/27/2019","19:11","Cartão de crédito",4.848,4.3
+"703","191-29-0321","B","Mandalay","Membro","Feminino","Acessórios de moda",104.9787,10,52.48935,1059.672,"2/27/2019","18:57","Cartão de crédito",9.885,5
+"704","729-06-2010","B","Mandalay","Membro","Masculino","Saúde e beleza",427.2957,9,1922.83065,4207.7763,"01/06/2019","11:18","Dinheiro",362.115,9.2
+"705","640-48-5028","B","Mandalay","Membro","Feminino","Lar e estilo de vida",469.3509,9,2112.07905,4621.9131,"03/02/2019","12:40","Dinheiro",397.755,6.3
+"706","186-79-9562","B","Mandalay","Normal","Masculino","Saúde e beleza",381.0987,7,1333.84545,2918.8859,"3/29/2019","14:06","Dinheiro",251.195,8.9
+"707","834-45-5519","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",228.33,4,45.666,921.92,"1/31/2019","20:48","Carteira eletrônica",8.6,7.6
+"708","162-65-8559","C","Naypyitaw","Membro","Masculino","Acessórios de moda",366.2838,1,18.31419,369.7328,"1/21/2019","20:13","Dinheiro",3.449,4.8
+"709","760-27-5490","C","Naypyitaw","Normal","Masculino","Acessórios de moda",82.9422,8,33.17688,669.7856,"1/20/2019","20:37","Carteira eletrônica",6.248,9.1
+"710","445-30-9252","A","Yangon","Normal","Masculino","Viagens e sports",136.467,3,20.47005,413.256,"1/17/2019","17:59","Carteira eletrônica",3.855,6.1
+"711","786-94-2700","A","Yangon","Membro","Masculino","Acessórios de moda",428.0922,6,128.42766,2592.7392,"2/28/2019","20:18","Dinheiro",24.186,9.1
+"712","728-88-7867","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",401.0643,4,80.21286,1619.3632,"3/19/2019","15:52","Carteira eletrônica",15.106,8.3
+"713","183-21-3799","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",412.2153,9,1854.96885,4059.2727,"2/19/2019","15:14","Carteira eletrônica",349.335,7.2
+"714","268-20-3585","C","Naypyitaw","Normal","Feminino","Saúde e beleza",73.5435,9,330.94575,724.2165,"02/04/2019","12:50","Carteira eletrônica",62.325,6
+"715","735-32-9839","C","Naypyitaw","Membro","Masculino","Acessórios de moda",524.097,8,209.6388,4232.256,"1/31/2019","10:36","Carteira eletrônica",39.48,8.5
+"716","258-92-7466","A","Yangon","Normal","Feminino","Saúde e beleza",189.4608,5,47.3652,956.224,"02/06/2019","18:33","Cartão de crédito",8.92,6.6
+"717","857-16-3520","A","Yangon","Membro","Feminino","Acessórios de moda",379.4526,7,132.80841,2681.1792,"3/28/2019","16:06","Carteira eletrônica",25.011,4.5
+"718","482-17-1179","A","Yangon","Membro","Masculino","Acessórios eletrônicos",63.4014,3,9.51021,191.9952,"1/19/2019","12:47","Cartão de crédito",1.791,8.1
+"719","788-21-5741","A","Yangon","Normal","Masculino","Acessórios de moda",240.9678,3,36.14517,729.7104,"2/17/2019","13:34","Cartão de crédito",6.807,7.2
+"720","821-14-9046","B","Mandalay","Membro","Feminino","Acessórios de moda",92.8188,6,27.84564,562.1568,"1/18/2019","15:04","Cartão de crédito",5.244,6.1
+"721","418-05-0656","B","Mandalay","Normal","Feminino","Acessórios de moda",135.7236,7,47.50326,959.0112,"02/02/2019","20:42","Dinheiro",8.946,7.1
+"722","678-79-0726","C","Naypyitaw","Membro","Feminino","Viagens e sports",481.2453,9,2165.60385,4739.0427,"1/18/2019","15:28","Dinheiro",407.835,5.1
+"723","776-68-1096","B","Mandalay","Normal","Masculino","Lar e estilo de vida",234.2772,3,35.14158,709.4496,"3/18/2019","13:45","Cartão de crédito",6.618,7.9
+"724","592-46-1692","C","Naypyitaw","Membro","Feminino","Acessórios de moda",195.2487,7,683.37045,1495.4359,"01/11/2019","20:10","Dinheiro",128.695,7.4
+"725","434-35-9162","B","Mandalay","Membro","Masculino","Acessórios de moda",123.9354,4,24.78708,500.4096,"02/04/2019","18:53","Carteira eletrônica",4.668,7.4
+"726","149-14-0304","C","Naypyitaw","Membro","Feminino","Saúde e beleza",151.335,8,60.534,1222.08,"02/06/2019","14:24","Dinheiro",11.4,6.6
+"727","442-44-6497","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",295.0767,3,442.61505,968.5851,"01/08/2019","11:42","Cartão de crédito",83.355,5.9
+"728","174-64-0215","B","Mandalay","Normal","Masculino","Viagens e sports",370.3194,10,185.1597,3738.064,"03/05/2019","17:49","Cartão de crédito",34.87,8.9
+"729","210-74-9613","C","Naypyitaw","Normal","Masculino","Acessórios de moda",516.4506,4,103.29012,2085.2544,"3/16/2019","15:33","Carteira eletrônica",19.452,6.8
+"730","299-29-0180","B","Mandalay","Membro","Feminino","Lar e estilo de vida",277.0758,7,96.97653,1957.7936,"03/09/2019","10:54","Dinheiro",18.263,9.3
+"731","247-11-2470","A","Yangon","Membro","Feminino","Acessórios de moda",118.5192,4,23.70384,478.5408,"03/01/2019","16:23","Cartão de crédito",4.464,4.4
+"732","635-28-5728","A","Yangon","Normal","Masculino","Saúde e beleza",297.36,3,44.604,900.48,"2/28/2019","19:33","Carteira eletrônica",8.4,4.8
+"733","756-49-0168","A","Yangon","Membro","Masculino","Acessórios de moda",104.607,1,5.23035,105.592,"02/08/2019","11:39","Carteira eletrônica",0.985,9.5
+"734","438-23-1242","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",402.9228,7,141.02298,2847.0176,"1/24/2019","10:38","Carteira eletrônica",26.558,8.9
+"735","238-45-6950","B","Mandalay","Membro","Masculino","Acessórios de moda",285.2532,1,14.26266,287.9392,"03/01/2019","20:03","Carteira eletrônica",2.686,6.4
+"736","607-65-2441","C","Naypyitaw","Membro","Masculino","Saúde e beleza",435.1545,10,217.57725,4392.52,"03/10/2019","12:39","Cartão de crédito",40.975,6
+"737","386-27-7606","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",431.172,7,150.9102,3046.624,"3/23/2019","15:59","Cartão de crédito",28.42,8.1
+"738","137-63-5492","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",312.0156,10,156.0078,3149.536,"1/29/2019","14:26","Carteira eletrônica",29.38,9
+"739","197-77-7132","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",486.1836,8,194.47344,3926.0928,"01/12/2019","18:22","Carteira eletrônica",36.624,6
+"740","805-86-0265","A","Yangon","Normal","Masculino","Lar e estilo de vida",498.9276,9,224.51742,4532.6304,"3/20/2019","11:32","Dinheiro",42.282,9.8
+"741","733-29-1227","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",295.2891,7,1033.51185,2261.6587,"3/23/2019","12:41","Dinheiro",194.635,8.5
+"742","451-73-2711","C","Naypyitaw","Normal","Masculino","Acessórios de moda",450.4473,1,225.22365,492.8623,"1/14/2019","15:20","Carteira eletrônica",42.415,8.8
+"743","373-14-0504","A","Yangon","Membro","Feminino","Viagens e sports",380.3553,2,38.03553,767.8736,"02/12/2019","14:33","Carteira eletrônica",7.163,8.8
+"744","546-80-2899","A","Yangon","Membro","Masculino","Lar e estilo de vida",200.1339,2,20.01339,404.0368,"2/20/2019","15:29","Carteira eletrônica",3.769,9.5
+"745","345-68-9016","C","Naypyitaw","Membro","Feminino","Viagens e sports",168.1677,8,67.26708,1358.0096,"01/02/2019","16:19","Cartão de crédito",12.668,5.6
+"746","390-17-5806","C","Naypyitaw","Membro","Feminino","Acessórios de moda",204.0102,1,10.20051,205.9312,"02/02/2019","16:33","Dinheiro",1.921,8.6
+"747","457-13-1708","B","Mandalay","Membro","Masculino","Acessórios de moda",346.3713,10,173.18565,3496.328,"01/08/2019","19:07","Cartão de crédito",32.615,5.2
+"748","664-14-2882","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",55.9143,5,139.78575,305.8965,"1/30/2019","14:43","Cartão de crédito",26.325,5.8
+"749","487-79-6868","B","Mandalay","Membro","Feminino","Lar e estilo de vida",65.2599,9,293.66955,642.6441,"3/26/2019","19:28","Cartão de crédito",55.305,8
+"750","314-23-4520","C","Naypyitaw","Membro","Masculino","Saúde e beleza",431.3313,7,1509.65955,3303.6241,"1/15/2019","20:44","Dinheiro",284.305,9
+"751","210-30-7976","B","Mandalay","Membro","Feminino","Acessórios de moda",118.5192,4,23.70384,478.5408,"3/14/2019","11:16","Carteira eletrônica",4.464,4.1
+"752","585-86-8361","A","Yangon","Normal","Feminino","Acessórios de moda",144.8568,5,36.2142,731.104,"02/03/2019","10:31","Cartão de crédito",6.82,8.6
+"753","807-14-7833","A","Yangon","Membro","Feminino","Acessórios eletrônicos",92.5002,10,46.2501,933.712,"2/22/2019","12:30","Carteira eletrônica",8.71,7
+"754","775-72-1988","B","Mandalay","Normal","Masculino","Lar e estilo de vida",389.1168,5,97.2792,1963.904,"1/24/2019","15:05","Carteira eletrônica",18.32,8.4
+"755","288-38-3758","C","Naypyitaw","Membro","Feminino","Acessórios de moda",450.6597,3,675.98955,1479.2841,"1/25/2019","18:30","Carteira eletrônica",127.305,7.4
+"756","652-43-6591","A","Yangon","Normal","Feminino","Acessórios de moda",516.6099,8,206.64396,4171.7952,"03/09/2019","13:18","Cartão de crédito",38.916,6.2
+"757","785-96-0615","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",189.7794,8,75.91176,1532.5312,"2/17/2019","15:28","Carteira eletrônica",14.296,4.9
+"758","406-46-7107","A","Yangon","Normal","Feminino","Lar e estilo de vida",512.5212,6,153.75636,3104.0832,"01/11/2019","11:52","Dinheiro",28.956,4.5
+"759","250-17-5703","A","Yangon","Membro","Masculino","Acessórios de moda",100.0935,10,50.04675,1010.36,"2/27/2019","18:24","Carteira eletrônica",9.425,5.6
+"760","156-95-3964","A","Yangon","Normal","Feminino","Acessórios de moda",294.1209,4,58.82418,1187.5616,"3/25/2019","15:19","Carteira eletrônica",11.078,8
+"761","842-40-8179","B","Mandalay","Membro","Feminino","Acessórios de moda",409.932,10,204.966,4137.92,"02/11/2019","10:38","Cartão de crédito",38.6,5.6
+"762","525-09-8450","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",383.0103,10,191.50515,3866.168,"1/31/2019","15:12","Cartão de crédito",36.065,4.2
+"763","410-67-1709","A","Yangon","Membro","Feminino","Acessórios de moda",339.2028,8,135.68112,2739.1744,"1/20/2019","17:48","Carteira eletrônica",25.552,9.9
+"764","587-73-4862","A","Yangon","Membro","Feminino","Saúde e beleza",56.7639,5,141.90975,310.5445,"3/26/2019","11:07","Carteira eletrônica",26.725,7.6
+"765","787-87-2010","A","Yangon","Membro","Masculino","Saúde e beleza",294.705,4,58.941,1189.92,"1/20/2019","15:48","Cartão de crédito",11.1,6.6
+"766","593-14-4239","B","Mandalay","Normal","Feminino","Lar e estilo de vida",506.8926,8,202.75704,4093.3248,"03/05/2019","19:40","Carteira eletrônica",38.184,4.7
+"767","801-88-0346","C","Naypyitaw","Normal","Feminino","Acessórios de moda",403.8786,3,60.58179,1223.0448,"01/05/2019","20:30","Cartão de crédito",11.409,9.8
+"768","388-76-2555","B","Mandalay","Normal","Masculino","Viagens e sports",72.6939,6,21.80817,440.2704,"2/13/2019","13:59","Dinheiro",4.107,6.3
+"769","711-31-1234","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",507.8484,4,101.56968,2050.5216,"3/16/2019","18:51","Dinheiro",19.128,7.9
+"770","886-54-6089","A","Yangon","Normal","Feminino","Lar e estilo de vida",60.6933,6,18.20799,367.5888,"1/15/2019","17:24","Dinheiro",3.429,7.7
+"771","707-32-7409","B","Mandalay","Membro","Feminino","Viagens e sports",507.3174,4,101.46348,2048.3776,"2/26/2019","11:58","Carteira eletrônica",19.108,4.5
+"772","759-98-4285","C","Naypyitaw","Membro","Feminino","Saúde e beleza",455.9697,7,1595.89395,3492.3329,"2/27/2019","19:01","Cartão de crédito",300.545,8
+"773","201-63-8275","C","Naypyitaw","Membro","Feminino","Viagens e sports",361.0269,7,1263.59415,2765.1533,"2/17/2019","16:50","Carteira eletrônica",237.965,5.7
+"774","471-06-8611","C","Naypyitaw","Normal","Feminino","Acessórios de moda",278.3502,1,13.91751,280.9712,"02/06/2019","10:22","Cartão de crédito",2.621,6.3
+"775","200-16-5952","C","Naypyitaw","Membro","Masculino","Acessórios de moda",348.6015,2,34.86015,703.768,"1/17/2019","16:46","Dinheiro",6.565,6
+"776","120-54-2248","B","Mandalay","Normal","Feminino","Acessórios de moda",153.2466,5,38.31165,773.448,"1/22/2019","18:08","Cartão de crédito",7.215,8
+"777","102-77-2261","C","Naypyitaw","Membro","Masculino","Saúde e beleza",346.7961,7,1213.78635,2656.1577,"03/05/2019","18:02","Cartão de crédito",228.585,4.2
+"778","875-31-8302","B","Mandalay","Normal","Masculino","Viagens e sports",495.8478,1,24.79239,500.5168,"01/03/2019","13:07","Dinheiro",4.669,9.6
+"779","102-06-2002","C","Naypyitaw","Membro","Masculino","Viagens e sports",134.0775,5,335.19375,733.5125,"3/20/2019","17:52","Dinheiro",63.125,6.1
+"780","457-94-0464","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",466.5897,9,2099.65365,4594.7223,"1/31/2019","20:32","Carteira eletrônica",395.415,5.6
+"781","629-42-4133","C","Naypyitaw","Normal","Masculino","Saúde e beleza",115.758,8,46.3032,934.784,"2/19/2019","19:24","Dinheiro",8.72,8.3
+"782","534-53-3526","A","Yangon","Normal","Feminino","Viagens e sports",503.1756,4,100.63512,2031.6544,"02/11/2019","16:06","Carteira eletrônica",18.952,7.8
+"783","307-04-2070","A","Yangon","Membro","Feminino","Acessórios de moda",162.5922,1,8.12961,164.1232,"02/05/2019","14:14","Cartão de crédito",1.531,4.1
+"784","468-99-7231","C","Naypyitaw","Normal","Feminino","Lar e estilo de vida",233.6931,8,93.47724,1887.1488,"03/03/2019","17:36","Dinheiro",17.604,8.8
+"785","516-77-6464","C","Naypyitaw","Membro","Feminino","Saúde e beleza",53.9496,5,13.4874,272.288,"2/24/2019","13:08","Carteira eletrônica",2.54,4.1
+"786","404-91-5964","A","Yangon","Normal","Masculino","Acessórios eletrônicos",396.0198,7,138.60693,2798.2416,"02/04/2019","16:09","Cartão de crédito",26.103,9
+"787","886-77-9084","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",381.7359,8,152.69436,3082.6432,"2/19/2019","11:33","Carteira eletrônica",28.756,5.5
+"788","790-38-4466","C","Naypyitaw","Normal","Feminino","Saúde e beleza",58.3569,5,145.89225,319.2595,"1/23/2019","10:18","Cartão de crédito",27.475,9.3
+"789","704-10-4056","C","Naypyitaw","Membro","Masculino","Saúde e beleza",321.0957,3,481.64355,1053.9921,"1/14/2019","10:55","Cartão de crédito",90.705,5.6
+"790","497-37-6538","A","Yangon","Normal","Masculino","Viagens e sports",312.8121,7,1094.84235,2395.8697,"1/17/2019","15:15","Carteira eletrônica",206.185,9.7
+"791","651-96-5970","A","Yangon","Normal","Masculino","Acessórios de moda",246.4371,1,123.21855,269.6421,"03/03/2019","20:06","Cartão de crédito",23.205,4
+"792","400-80-4065","C","Naypyitaw","Membro","Masculino","Saúde e beleza",364.0005,4,72.8001,1469.712,"2/15/2019","20:21","Cartão de crédito",13.71,9.2
+"793","744-16-7898","B","Mandalay","Normal","Feminino","Lar e estilo de vida",517.0347,10,258.51735,5219.032,"1/15/2019","13:48","Cartão de crédito",48.685,4.9
+"794","263-12-5321","A","Yangon","Membro","Masculino","Acessórios eletrônicos",491.706,7,172.0971,3474.352,"2/27/2019","12:52","Cartão de crédito",32.41,9.3
+"795","702-72-0487","A","Yangon","Normal","Feminino","Acessórios eletrônicos",247.4991,2,24.74991,499.6592,"2/26/2019","12:28","Cartão de crédito",4.661,6.6
+"796","605-83-1050","B","Mandalay","Normal","Masculino","Acessórios de moda",144.3258,2,14.43258,291.3696,"3/15/2019","16:26","Carteira eletrônica",2.718,4.3
+"797","443-60-9639","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",323.2197,1,161.60985,353.6547,"1/24/2019","13:24","Dinheiro",30.435,5.5
+"798","864-24-7918","A","Yangon","Membro","Feminino","Viagens e sports",130.0419,10,65.02095,1312.664,"2/22/2019","15:15","Dinheiro",12.245,8.1
+"799","359-94-5395","B","Mandalay","Normal","Masculino","Saúde e beleza",492.6618,1,24.63309,497.3008,"3/15/2019","10:50","Cartão de crédito",4.639,9.8
+"800","401-09-4232","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",460.3239,5,1150.80975,2518.3445,"02/11/2019","18:38","Carteira eletrônica",216.725,9.4
+"801","751-15-6198","B","Mandalay","Normal","Masculino","Viagens e sports",122.1831,6,36.65493,740.0016,"01/12/2019","16:45","Carteira eletrônica",6.903,7.9
+"802","324-41-6833","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",160.362,8,64.1448,1294.976,"03/03/2019","19:30","Carteira eletrônica",12.08,5.1
+"803","474-33-8305","C","Naypyitaw","Membro","Masculino","Acessórios de moda",357.8409,7,1252.44315,2740.7513,"3/23/2019","13:23","Carteira eletrônica",235.865,6.9
+"804","759-29-9521","A","Yangon","Membro","Feminino","Acessórios de moda",259.9776,9,116.98992,2361.8304,"03/04/2019","11:27","Dinheiro",22.032,8
+"805","831-81-6575","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",401.3829,9,1806.22305,3952.6011,"2/23/2019","11:12","Dinheiro",340.155,8
+"806","220-68-6701","A","Yangon","Normal","Feminino","Lar e estilo de vida",411.3657,4,82.27314,1660.9568,"3/17/2019","16:36","Dinheiro",15.494,4.2
+"807","618-34-8551","A","Yangon","Normal","Feminino","Viagens e sports",494.7858,2,49.47858,998.8896,"1/16/2019","18:41","Cartão de crédito",9.318,8.5
+"808","257-60-7754","A","Yangon","Normal","Feminino","Acessórios eletrônicos",266.7213,4,53.34426,1076.9312,"01/08/2019","17:12","Dinheiro",10.046,9
+"809","559-61-5987","B","Mandalay","Normal","Feminino","Saúde e beleza",94.2525,1,4.712625,95.14,"1/14/2019","10:38","Dinheiro",0.8875,8.6
+"810","189-55-2313","C","Naypyitaw","Normal","Feminino","Acessórios de moda",330.1758,10,165.0879,3332.848,"1/31/2019","10:33","Carteira eletrônica",31.09,6
+"811","565-91-4567","B","Mandalay","Normal","Masculino","Saúde e beleza",57.0825,8,22.833,460.96,"3/15/2019","14:38","Carteira eletrônica",4.3,6.2
+"812","380-60-5336","A","Yangon","Normal","Feminino","Acessórios eletrônicos",213.7806,10,106.8903,2157.936,"2/24/2019","18:06","Cartão de crédito",20.13,5
+"813","815-04-6282","C","Naypyitaw","Membro","Feminino","Viagens e sports",344.9907,5,862.47675,1887.3785,"02/08/2019","12:52","Cartão de crédito",162.425,6.5
+"814","674-56-6360","A","Yangon","Normal","Masculino","Acessórios eletrônicos",505.2465,1,252.62325,552.8215,"3/22/2019","14:00","Dinheiro",47.575,6
+"815","778-34-2523","A","Yangon","Membro","Feminino","Acessórios eletrônicos",258.1722,8,103.26888,2084.8256,"1/24/2019","10:57","Dinheiro",19.448,5
+"816","499-27-7781","B","Mandalay","Normal","Feminino","Acessórios de moda",282.5451,8,113.01804,2281.6448,"3/14/2019","16:45","Carteira eletrônica",21.284,5
+"817","477-59-2456","C","Naypyitaw","Normal","Feminino","Acessórios de moda",241.2864,7,84.45024,1704.9088,"1/23/2019","11:15","Dinheiro",15.904,9.2
+"818","832-51-6761","A","Yangon","Normal","Masculino","Acessórios de moda",179.9028,8,71.96112,1452.7744,"1/19/2019","20:29","Carteira eletrônica",13.552,9.6
+"819","869-11-3082","B","Mandalay","Membro","Masculino","Saúde e beleza",510.6096,4,102.12192,2061.6704,"1/27/2019","20:03","Cartão de crédito",19.232,8.4
+"820","190-59-3964","B","Mandalay","Membro","Masculino","Acessórios de moda",250.4196,5,62.6049,1263.888,"02/03/2019","14:35","Cartão de crédito",11.79,6
+"821","366-43-6862","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",280.8459,4,56.16918,1133.9616,"3/25/2019","16:32","Carteira eletrônica",10.578,6.7
+"822","186-43-8965","A","Yangon","Membro","Feminino","Lar e estilo de vida",253.1808,2,25.31808,511.1296,"2/24/2019","10:10","Cartão de crédito",4.768,4.1
+"823","784-21-9238","C","Naypyitaw","Membro","Masculino","Viagens e sports",54.0027,1,2.700135,54.5112,"02/07/2019","14:15","Dinheiro",0.5085,5.9
+"824","276-75-6884","A","Yangon","Normal","Feminino","Saúde e beleza",364.8501,3,547.27515,1197.6153,"03/04/2019","10:05","Dinheiro",103.065,8.7
+"825","109-86-4363","B","Mandalay","Membro","Feminino","Viagens e sports",319.0248,7,111.65868,2254.2016,"2/14/2019","11:36","Cartão de crédito",21.028,4.5
+"826","569-76-2760","A","Yangon","Membro","Feminino","Viagens e sports",116.8731,4,23.37462,471.8944,"1/29/2019","18:15","Cartão de crédito",4.402,6.6
+"827","222-42-0244","B","Mandalay","Membro","Feminino","Saúde e beleza",382.9041,9,1723.06845,3770.6319,"1/28/2019","13:53","Cartão de crédito",324.495,7.7
+"828","760-53-9233","A","Yangon","Membro","Masculino","Acessórios de moda",219.1968,3,32.87952,663.7824,"3/26/2019","18:37","Cartão de crédito",6.192,8.5
+"829","538-22-0304","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",344.8845,10,172.44225,3481.32,"3/24/2019","18:27","Dinheiro",32.475,5.2
+"830","416-17-9926","A","Yangon","Membro","Feminino","Acessórios eletrônicos",394.1082,10,197.0541,3978.192,"01/01/2019","14:42","Cartão de crédito",37.11,4.3
+"831","237-44-6163","A","Yangon","Normal","Masculino","Acessórios eletrônicos",56.0736,8,22.42944,452.8128,"1/24/2019","17:43","Dinheiro",4.224,7.6
+"832","636-17-0325","B","Mandalay","Normal","Masculino","Saúde e beleza",332.2467,4,66.44934,1341.5008,"2/25/2019","18:37","Dinheiro",12.514,9.5
+"833","343-75-9322","B","Mandalay","Membro","Feminino","Viagens e sports",62.9235,8,25.1694,508.128,"01/09/2019","16:34","Dinheiro",4.74,4.1
+"834","528-14-9470","A","Yangon","Membro","Masculino","Saúde e beleza",484.803,1,24.24015,489.368,"2/14/2019","14:42","Carteira eletrônica",4.565,9.2
+"835","427-45-9297","B","Mandalay","Membro","Feminino","Lar e estilo de vida",216.2763,7,756.96705,1656.4891,"03/12/2019","11:01","Carteira eletrônica",142.555,5.4
+"836","807-34-3742","A","Yangon","Normal","Masculino","Acessórios de moda",278.1378,1,13.90689,280.7568,"3/26/2019","19:44","Dinheiro",2.619,5.8
+"837","288-62-1085","A","Yangon","Membro","Masculino","Acessórios de moda",204.6474,5,51.16185,1032.872,"01/09/2019","13:34","Carteira eletrônica",9.635,5.6
+"838","670-71-7306","B","Mandalay","Normal","Masculino","Viagens e sports",236.9853,6,71.09559,1435.3008,"01/02/2019","20:08","Cartão de crédito",13.389,5.1
+"839","660-29-7083","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",296.6697,10,148.33485,2994.632,"1/15/2019","15:01","Dinheiro",27.935,5.8
+"840","271-77-8740","C","Naypyitaw","Membro","Feminino","Viagens e sports",155.1582,6,46.54746,939.7152,"01/01/2019","11:40","Carteira eletrônica",8.766,5
+"841","497-36-0989","A","Yangon","Normal","Masculino","Acessórios de moda",275.8014,3,41.37021,835.1952,"2/15/2019","15:21","Dinheiro",7.791,7.9
+"842","291-59-1384","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",320.193,1,16.00965,323.208,"2/28/2019","17:38","Dinheiro",3.015,6
+"843","860-73-6466","A","Yangon","Membro","Feminino","Viagens e sports",209.5857,2,20.95857,423.1184,"03/02/2019","16:16","Cartão de crédito",3.947,5
+"844","549-23-9016","C","Naypyitaw","Membro","Feminino","Acessórios de moda",78.9597,2,7.89597,159.4064,"2/13/2019","18:15","Cartão de crédito",1.487,8.9
+"845","896-34-0956","A","Yangon","Normal","Masculino","Acessórios de moda",113.2092,1,5.66046,114.2752,"1/26/2019","12:43","Dinheiro",1.066,5.9
+"846","804-38-3935","A","Yangon","Membro","Masculino","Acessórios eletrônicos",497.9718,3,74.69577,1507.9824,"1/30/2019","11:32","Cartão de crédito",14.067,5.9
+"847","585-90-0249","A","Yangon","Membro","Masculino","Acessórios eletrônicos",389.0106,1,19.45053,392.6736,"1/27/2019","18:08","Carteira eletrônica",3.663,9.7
+"848","862-29-5914","C","Naypyitaw","Normal","Feminino","Viagens e sports",118.8378,1,5.94189,119.9568,"1/30/2019","17:08","Cartão de crédito",1.119,8.6
+"849","845-94-6841","C","Naypyitaw","Membro","Feminino","Acessórios de moda",386.9928,9,174.14676,3515.7312,"01/08/2019","19:38","Dinheiro",32.796,4
+"850","125-45-2293","A","Yangon","Normal","Feminino","Acessórios de moda",526.221,6,157.8663,3187.056,"1/19/2019","13:11","Dinheiro",29.73,4.2
+"851","843-73-4724","A","Yangon","Normal","Masculino","Acessórios de moda",393.471,1,19.67355,397.176,"1/25/2019","11:05","Dinheiro",3.705,9.2
+"852","409-33-9708","A","Yangon","Normal","Feminino","Acessórios de moda",522.9288,2,52.29288,1055.7056,"2/19/2019","10:12","Carteira eletrônica",9.848,9.2
+"853","658-66-3967","C","Naypyitaw","Normal","Masculino","Saúde e beleza",282.4389,7,988.53615,2163.2373,"1/14/2019","15:42","Carteira eletrônica",186.165,5
+"854","866-70-2814","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",280.3149,10,140.15745,2829.544,"2/25/2019","11:58","Carteira eletrônica",26.395,10
+"855","160-22-2687","A","Yangon","Membro","Feminino","Saúde e beleza",509.4945,5,1273.73625,2787.3475,"1/23/2019","14:21","Carteira eletrônica",239.875,8.8
+"856","895-03-6665","B","Mandalay","Normal","Feminino","Acessórios de moda",193.8681,9,872.40645,1909.1079,"2/16/2019","10:52","Dinheiro",164.295,4.2
+"857","770-42-8960","B","Mandalay","Normal","Masculino","Acessórios de moda",112.1472,8,44.85888,905.6256,"01/01/2019","19:31","Dinheiro",8.448,6.3
+"858","748-45-2862","A","Yangon","Membro","Feminino","Lar e estilo de vida",150.3261,4,30.06522,606.9664,"03/07/2019","18:35","Dinheiro",5.662,8.2
+"859","234-36-2483","B","Mandalay","Normal","Masculino","Saúde e beleza",305.8029,6,91.74087,1852.0944,"2/15/2019","13:51","Dinheiro",17.277,5.1
+"860","316-66-3011","A","Yangon","Membro","Feminino","Acessórios de moda",252.9153,9,1138.11885,2490.5727,"1/23/2019","12:35","Dinheiro",214.335,5
+"861","848-95-6252","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",458.0937,1,229.04685,501.2287,"2/20/2019","13:24","Carteira eletrônica",43.135,7
+"862","840-76-5966","A","Yangon","Membro","Masculino","Viagens e sports",67.7556,2,6.77556,136.7872,"01/08/2019","18:06","Carteira eletrônica",1.276,7.8
+"863","152-03-4217","B","Mandalay","Normal","Feminino","Lar e estilo de vida",59.8968,9,26.95356,544.1472,"3/17/2019","11:55","Cartão de crédito",5.076,4.3
+"864","533-66-5566","B","Mandalay","Normal","Feminino","Lar e estilo de vida",271.1817,7,949.13595,2077.0169,"01/12/2019","11:42","Dinheiro",178.745,7
+"865","124-31-1458","A","Yangon","Membro","Feminino","Acessórios eletrônicos",422.6229,3,633.93435,1387.2537,"01/08/2019","14:30","Dinheiro",119.385,6.6
+"866","176-78-1170","C","Naypyitaw","Membro","Masculino","Saúde e beleza",179.5311,3,269.29665,589.3083,"1/26/2019","15:11","Carteira eletrônica",50.715,7.3
+"867","361-59-0574","B","Mandalay","Membro","Masculino","Viagens e sports",480.7143,8,192.28572,3881.9264,"3/15/2019","14:48","Cartão de crédito",36.212,6.5
+"868","101-81-4070","C","Naypyitaw","Membro","Feminino","Saúde e beleza",333.5742,2,33.35742,673.4304,"1/17/2019","12:36","Carteira eletrônica",6.282,4.9
+"869","631-34-1880","C","Naypyitaw","Membro","Masculino","Acessórios de moda",129.0861,3,193.62915,423.7233,"01/08/2019","19:09","Cartão de crédito",36.465,4.3
+"870","852-82-2749","A","Yangon","Normal","Masculino","Viagens e sports",342.9729,4,68.59458,1384.8096,"01/06/2019","13:35","Carteira eletrônica",12.918,9.3
+"871","873-14-6353","A","Yangon","Membro","Masculino","Acessórios de moda",131.7942,7,46.12797,931.2464,"2/16/2019","10:33","Cartão de crédito",8.687,7.1
+"872","584-66-4073","C","Naypyitaw","Normal","Masculino","Acessórios de moda",300.015,1,15.00075,302.84,"3/13/2019","15:45","Carteira eletrônica",2.825,9.6
+"873","544-55-9589","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",113.7933,10,56.89665,1148.648,"1/28/2019","11:51","Dinheiro",10.715,6.2
+"874","166-19-2553","A","Yangon","Membro","Masculino","Viagens e sports",472.9086,6,141.87258,2864.1696,"1/18/2019","17:26","Dinheiro",26.718,9.9
+"875","737-88-5876","A","Yangon","Membro","Masculino","Lar e estilo de vida",123.6699,4,24.73398,499.3376,"3/19/2019","11:52","Cartão de crédito",4.658,5.9
+"876","154-87-7367","C","Naypyitaw","Normal","Masculino","Lar e estilo de vida",346.5306,8,138.61224,2798.3488,"3/15/2019","14:04","Carteira eletrônica",26.104,6.3
+"877","885-56-0389","C","Naypyitaw","Membro","Masculino","Acessórios de moda",277.9785,1,138.98925,304.1535,"02/12/2019","17:49","Dinheiro",26.175,4
+"878","608-05-3804","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",211.0725,1,105.53625,230.9475,"2/25/2019","20:19","Dinheiro",19.875,6.1
+"879","448-61-3783","A","Yangon","Normal","Feminino","Acessórios eletrônicos",478.0062,8,191.20248,3860.0576,"3/21/2019","16:08","Cartão de crédito",36.008,4.5
+"880","761-49-0439","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",64.251,8,25.7004,518.848,"1/19/2019","10:17","Carteira eletrônica",4.84,8.6
+"881","490-95-0021","B","Mandalay","Membro","Feminino","Acessórios de moda",176.3451,10,88.17255,1780.056,"01/08/2019","14:25","Carteira eletrônica",16.605,6
+"882","115-38-7388","C","Naypyitaw","Membro","Feminino","Acessórios de moda",54.0558,8,21.62232,436.5184,"3/30/2019","12:51","Cartão de crédito",4.072,9.5
+"883","311-13-6971","B","Mandalay","Membro","Masculino","Viagens e sports",169.8669,10,84.93345,1714.664,"2/20/2019","15:18","Cartão de crédito",15.995,9.9
+"884","291-55-6563","A","Yangon","Membro","Feminino","Lar e estilo de vida",182.7702,6,54.83106,1106.9472,"3/30/2019","12:45","Carteira eletrônica",10.326,7.5
+"885","548-48-3156","A","Yangon","Membro","Feminino","Acessórios de moda",442.5354,2,44.25354,893.4048,"3/19/2019","13:37","Dinheiro",8.334,7.6
+"886","460-93-5834","A","Yangon","Normal","Masculino","Viagens e sports",242.0298,7,84.71043,1710.1616,"1/13/2019","10:03","Dinheiro",15.953,5
+"887","325-89-4209","A","Yangon","Membro","Masculino","Acessórios de moda",466.749,1,23.33745,471.144,"02/05/2019","19:42","Carteira eletrônica",4.395,6.7
+"888","884-80-6021","A","Yangon","Membro","Feminino","Acessórios eletrônicos",390.1257,10,195.06285,3937.992,"3/23/2019","13:14","Carteira eletrônica",36.735,9.5
+"889","137-74-8729","C","Naypyitaw","Normal","Feminino","Acessórios de moda",64.7289,8,25.89156,522.7072,"3/13/2019","12:47","Carteira eletrônica",4.876,6.8
+"890","880-46-5796","A","Yangon","Membro","Masculino","Viagens e sports",408.4452,10,204.2226,4122.912,"3/17/2019","19:53","Carteira eletrônica",38.46,5.6
+"891","389-70-2397","C","Naypyitaw","Normal","Feminino","Saúde e beleza",444.2346,5,111.05865,2242.088,"2/21/2019","10:26","Dinheiro",20.915,7.2
+"892","114-35-5271","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",307.5021,8,123.00084,2483.1808,"02/07/2019","15:06","Dinheiro",23.164,8.1
+"893","607-76-6216","C","Naypyitaw","Membro","Feminino","Acessórios de moda",491.1219,5,1227.80475,2686.8345,"03/02/2019","16:35","Cartão de crédito",231.225,8.6
+"894","715-20-1673","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",150.6978,5,37.67445,760.584,"03/06/2019","20:57","Dinheiro",7.095,9.4
+"895","811-35-1094","B","Mandalay","Membro","Masculino","Acessórios eletrônicos",267.8895,6,80.36685,1622.472,"02/06/2019","15:16","Cartão de crédito",15.135,8.9
+"896","699-88-1972","B","Mandalay","Normal","Masculino","Saúde e beleza",526.5396,8,210.61584,4251.9808,"1/28/2019","17:47","Cartão de crédito",39.664,4.2
+"897","781-84-8059","C","Naypyitaw","Normal","Masculino","Acessórios de moda",322.5294,7,112.88529,2278.9648,"1/18/2019","16:23","Carteira eletrônica",21.259,5
+"898","409-49-6995","C","Naypyitaw","Membro","Feminino","Acessórios de moda",251.0037,6,75.30111,1520.2032,"02/05/2019","10:17","Dinheiro",14.181,8.8
+"899","725-54-0677","C","Naypyitaw","Membro","Masculino","Saúde e beleza",454.536,7,159.0876,3211.712,"03/02/2019","13:50","Dinheiro",29.96,5.3
+"900","146-09-5432","A","Yangon","Membro","Masculino","Acessórios de moda",186.0624,9,83.72808,1690.3296,"02/09/2019","19:17","Carteira eletrônica",15.768,4.6
+"901","377-79-7592","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",238.1004,9,107.14518,2163.0816,"1/14/2019","14:00","Cartão de crédito",20.178,7.5
+"902","509-10-0516","B","Mandalay","Normal","Masculino","Lar e estilo de vida",244.1007,4,48.82014,985.5968,"02/09/2019","12:02","Carteira eletrônica",9.194,5.1
+"903","595-94-9924","A","Yangon","Membro","Feminino","Saúde e beleza",147.2463,5,368.11575,805.5565,"3/26/2019","20:21","Cartão de crédito",69.325,4.2
+"904","865-41-9075","A","Yangon","Normal","Masculino","Acessórios de moda",61.2243,7,214.28505,468.9251,"1/28/2019","17:35","Dinheiro",40.355,8.1
+"905","545-07-8534","C","Naypyitaw","Normal","Feminino","Saúde e beleza",309.6792,2,30.96792,625.1904,"2/14/2019","12:42","Carteira eletrônica",5.832,6
+"906","118-62-1812","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",416.1978,4,83.23956,1680.4672,"3/24/2019","17:56","Dinheiro",15.676,7.9
+"907","450-42-3339","C","Naypyitaw","Normal","Masculino","Saúde e beleza",449.2791,10,224.63955,4535.096,"02/09/2019","18:58","Cartão de crédito",42.305,8.8
+"908","851-98-3555","B","Mandalay","Normal","Feminino","Saúde e beleza",440.0928,5,110.0232,2221.184,"3/24/2019","14:08","Cartão de crédito",20.72,6.6
+"909","186-71-5196","A","Yangon","Membro","Feminino","Acessórios de moda",422.3574,2,42.23574,852.6688,"3/27/2019","16:30","Carteira eletrônica",7.954,6.2
+"910","624-01-8356","B","Mandalay","Normal","Feminino","Lar e estilo de vida",260.2431,10,130.12155,2626.936,"1/27/2019","10:44","Cartão de crédito",24.505,4.2
+"911","313-66-9943","B","Mandalay","Membro","Feminino","Acessórios de moda",154.7865,3,232.17975,508.0845,"3/27/2019","20:29","Cartão de crédito",43.725,7.3
+"912","151-27-8496","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",298.0503,4,59.61006,1203.4272,"1/19/2019","11:43","Carteira eletrônica",11.226,8.6
+"913","453-33-6436","A","Yangon","Normal","Feminino","Lar e estilo de vida",494.4672,8,197.78688,3992.9856,"02/07/2019","10:09","Dinheiro",37.248,6.8
+"914","522-57-8364","A","Yangon","Membro","Masculino","Acessórios de moda",272.6154,8,109.04616,2201.4592,"1/31/2019","10:00","Carteira eletrônica",20.536,7.6
+"915","459-45-2396","A","Yangon","Membro","Feminino","Acessórios de moda",528.876,3,79.3314,1601.568,"2/25/2019","18:45","Dinheiro",14.94,5.8
+"916","717-96-4189","C","Naypyitaw","Normal","Feminino","Acessórios eletrônicos",188.4519,6,56.53557,1141.3584,"02/02/2019","12:40","Dinheiro",10.647,4.1
+"917","722-13-2115","C","Naypyitaw","Membro","Masculino","Viagens e sports",227.5335,1,113.76675,248.9585,"3/14/2019","15:36","Cartão de crédito",21.425,9.3
+"918","749-81-8133","A","Yangon","Normal","Feminino","Acessórios de moda",502.6977,4,100.53954,2029.7248,"03/11/2019","12:04","Dinheiro",18.934,6.8
+"919","777-67-2495","B","Mandalay","Normal","Masculino","Lar e estilo de vida",366.2307,3,549.34605,1202.1471,"2/22/2019","11:26","Carteira eletrônica",103.455,8.7
+"920","636-98-3364","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",139.4406,3,20.91609,422.2608,"03/02/2019","12:36","Carteira eletrônica",3.939,6.3
+"921","246-55-6923","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",190.0449,9,855.20205,1871.4591,"03/10/2019","15:06","Cartão de crédito",161.055,5.1
+"922","181-82-6255","B","Mandalay","Normal","Feminino","Lar e estilo de vida",86.9247,6,26.07741,526.4592,"02/08/2019","10:58","Dinheiro",4.911,7
+"923","838-02-1821","C","Naypyitaw","Membro","Feminino","Lar e estilo de vida",67.5963,2,6.75963,136.4656,"2/22/2019","12:10","Cartão de crédito",1.273,5.2
+"924","887-42-0517","C","Naypyitaw","Normal","Feminino","Viagens e sports",441.4734,7,154.51569,3119.4128,"01/10/2019","10:31","Cartão de crédito",29.099,6.6
+"925","457-12-0244","C","Naypyitaw","Membro","Feminino","Viagens e sports",187.0182,6,56.10546,1132.6752,"3/14/2019","13:49","Carteira eletrônica",10.566,6.5
+"926","226-34-0034","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",73.1718,4,14.63436,295.4432,"01/10/2019","11:10","Carteira eletrônica",2.756,9
+"927","321-49-7382","B","Mandalay","Membro","Masculino","Viagens e sports",468.9261,1,234.46305,513.0811,"2/15/2019","17:38","Cartão de crédito",44.155,5.2
+"928","397-25-8725","A","Yangon","Membro","Feminino","Saúde e beleza",210.3822,9,94.67199,1911.2688,"1/13/2019","17:54","Cartão de crédito",17.829,6.8
+"929","431-66-2305","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",468.6075,9,2108.73375,4614.5925,"2/15/2019","20:51","Cartão de crédito",397.125,7.6
+"930","825-94-5922","B","Mandalay","Normal","Masculino","Viagens e sports",134.3961,2,13.43961,271.3232,"03/02/2019","19:26","Carteira eletrônica",2.531,7.2
+"931","641-62-7288","B","Mandalay","Normal","Masculino","Lar e estilo de vida",530.5752,6,159.17256,3213.4272,"3/24/2019","13:33","Carteira eletrônica",29.976,7.1
+"932","756-93-1854","C","Naypyitaw","Membro","Feminino","Acessórios de moda",442.5885,2,44.25885,893.512,"02/02/2019","14:05","Cartão de crédito",8.335,9.5
+"933","243-55-8457","A","Yangon","Normal","Feminino","Acessórios de moda",395.2764,10,197.6382,3989.984,"2/27/2019","11:40","Carteira eletrônica",37.22,5.1
+"934","458-10-8612","C","Naypyitaw","Normal","Masculino","Saúde e beleza",340.2648,7,119.09268,2404.2816,"1/20/2019","12:27","Carteira eletrônica",22.428,7.6
+"935","501-61-1753","B","Mandalay","Normal","Feminino","Lar e estilo de vida",335.3265,6,100.59795,2030.904,"01/03/2019","20:24","Carteira eletrônica",18.945,9.8
+"936","235-06-8510","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",455.1732,3,68.27598,1378.3776,"1/24/2019","20:59","Carteira eletrônica",12.858,5.1
+"937","433-08-7822","C","Naypyitaw","Normal","Feminino","Saúde e beleza",418.9059,7,1466.17065,3208.4563,"01/05/2019","19:48","Carteira eletrônica",276.115,7.5
+"938","361-85-2571","A","Yangon","Normal","Feminino","Viagens e sports",475.1388,5,118.7847,2398.064,"3/30/2019","10:18","Dinheiro",22.37,7.4
+"939","131-70-8179","A","Yangon","Membro","Feminino","Saúde e beleza",488.9979,3,733.49685,1605.1287,"2/17/2019","16:27","Dinheiro",138.135,4.2
+"940","500-02-2261","C","Naypyitaw","Normal","Feminino","Acessórios de moda",304.2099,6,91.26297,1842.4464,"3/21/2019","17:04","Carteira eletrônica",17.187,5.9
+"941","720-72-2436","A","Yangon","Normal","Masculino","Acessórios de moda",353.2212,4,70.64424,1426.1888,"03/02/2019","18:14","Carteira eletrônica",13.304,6.9
+"942","702-83-5291","C","Naypyitaw","Membro","Masculino","Acessórios de moda",530.0442,9,238.51989,4815.3168,"3/27/2019","10:43","Dinheiro",44.919,6.6
+"943","809-69-9497","A","Yangon","Normal","Feminino","Lar e estilo de vida",242.5608,10,121.2804,2448.448,"1/19/2019","19:30","Carteira eletrônica",22.84,5.7
+"944","449-16-6770","A","Yangon","Normal","Masculino","Saúde e beleza",269.6949,5,674.23725,1475.4495,"2/19/2019","14:53","Cartão de crédito",126.975,5.3
+"945","333-23-2632","A","Yangon","Membro","Masculino","Saúde e beleza",53.5248,7,18.73368,378.2016,"3/28/2019","20:14","Dinheiro",3.528,4.2
+"946","489-82-1237","A","Yangon","Normal","Feminino","Acessórios eletrônicos",498.5028,7,174.47598,3522.3776,"01/05/2019","11:51","Cartão de crédito",32.858,7.3
+"947","859-97-6048","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",447.3675,2,44.73675,903.16,"3/26/2019","14:13","Cartão de crédito",8.425,5.3
+"948","676-10-2200","B","Mandalay","Membro","Masculino","Acessórios de moda",285.5718,1,14.27859,288.2608,"02/03/2019","20:13","Carteira eletrônica",2.689,4.7
+"949","373-88-1424","C","Naypyitaw","Membro","Masculino","Lar e estilo de vida",190.1511,5,475.37775,1040.2805,"02/06/2019","18:44","Carteira eletrônica",89.525,7.9
+"950","365-16-4334","B","Mandalay","Normal","Feminino","Acessórios de moda",140.3433,8,56.13732,1133.3184,"2/24/2019","14:26","Carteira eletrônica",10.572,8.9
+"951","503-21-4385","B","Mandalay","Membro","Masculino","Saúde e beleza",211.9221,3,317.88315,695.6313,"2/21/2019","12:40","Carteira eletrônica",59.865,9.3
+"952","305-89-2768","B","Mandalay","Membro","Feminino","Lar e estilo de vida",116.289,3,17.44335,352.152,"01/09/2019","18:43","Carteira eletrônica",3.285,4.7
+"953","574-80-1489","B","Mandalay","Membro","Feminino","Acessórios de moda",333.7335,4,66.7467,1347.504,"2/25/2019","13:22","Carteira eletrônica",12.57,8.7
+"954","784-08-0310","C","Naypyitaw","Membro","Feminino","Acessórios de moda",111.7224,4,22.34448,451.0976,"1/13/2019","13:58","Dinheiro",4.208,7.6
+"955","200-40-6154","B","Mandalay","Membro","Masculino","Lar e estilo de vida",349.9821,6,104.99463,2119.6656,"02/09/2019","11:45","Dinheiro",19.773,5.7
+"956","846-10-0341","A","Yangon","Normal","Feminino","Acessórios de moda",226.0467,7,791.16345,1731.3219,"01/06/2019","11:51","Dinheiro",148.995,6.8
+"957","577-34-7579","C","Naypyitaw","Membro","Masculino","Acessórios de moda",268.1019,9,1206.45855,2640.1221,"01/10/2019","17:16","Dinheiro",227.205,5.4
+"958","430-02-3888","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",244.3662,6,73.30986,1480.0032,"02/07/2019","15:55","Dinheiro",13.806,7.1
+"959","867-47-1948","C","Naypyitaw","Normal","Feminino","Lar e estilo de vida",83.898,10,41.949,846.88,"01/09/2019","12:07","Dinheiro",7.9,7.8
+"960","384-59-6655","A","Yangon","Membro","Feminino","Acessórios de moda",523.8846,9,235.74807,4759.3584,"2/19/2019","15:07","Dinheiro",44.397,8.4
+"961","256-58-3609","C","Naypyitaw","Membro","Masculino","Acessórios de moda",488.4138,1,24.42069,493.0128,"3/18/2019","15:29","Dinheiro",4.599,9.8
+"962","324-92-3863","A","Yangon","Membro","Masculino","Acessórios eletrônicos",110.9259,2,11.09259,223.9408,"02/05/2019","18:45","Dinheiro",2.089,9.8
+"963","593-08-5916","A","Yangon","Normal","Feminino","Acessórios de moda",82.305,1,4.11525,83.08,"3/19/2019","15:23","Cartão de crédito",0.775,7.4
+"964","364-34-2972","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",514.1142,3,77.11713,1556.8656,"3/30/2019","20:37","Dinheiro",14.523,6.7
+"965","794-42-3736","B","Mandalay","Normal","Masculino","Acessórios de moda",176.9823,2,17.69823,357.2976,"1/26/2019","14:41","Cartão de crédito",3.333,6.4
+"966","172-42-8274","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",203.2137,2,20.32137,410.2544,"03/02/2019","18:18","Cartão de crédito",3.827,5.8
+"967","558-60-5016","A","Yangon","Normal","Feminino","Lar e estilo de vida",176.823,9,79.57035,1606.392,"03/04/2019","15:27","Carteira eletrônica",14.985,7.2
+"968","195-06-0432","A","Yangon","Membro","Masculino","Lar e estilo de vida",430.1631,3,645.24465,1412.0043,"1/13/2019","12:55","Cartão de crédito",121.515,9.3
+"969","605-03-2706","A","Yangon","Normal","Feminino","Saúde e beleza",83.898,3,12.5847,254.064,"3/25/2019","18:02","Dinheiro",2.37,9.5
+"970","214-30-2776","B","Mandalay","Membro","Feminino","Acessórios eletrônicos",183.1419,5,457.85475,1001.9345,"03/11/2019","19:44","Cartão de crédito",86.225,9
+"971","746-04-1077","B","Mandalay","Membro","Feminino","Acessórios de moda",449.3853,10,224.69265,4536.168,"01/01/2019","11:36","Cartão de crédito",42.315,9
+"972","448-34-8700","B","Mandalay","Membro","Masculino","Lar e estilo de vida",195.9921,7,685.97235,1501.1297,"02/10/2019","13:51","Carteira eletrônica",129.185,6.7
+"973","452-04-8808","B","Mandalay","Normal","Masculino","Acessórios eletrônicos",462.3948,7,161.83818,3267.2416,"1/26/2019","15:17","Dinheiro",30.478,5.5
+"974","531-56-4728","A","Yangon","Normal","Masculino","Lar e estilo de vida",425.2248,3,63.78372,1287.6864,"02/11/2019","15:29","Dinheiro",12.012,5.4
+"975","744-82-9138","C","Naypyitaw","Normal","Masculino","Acessórios de moda",457.3503,2,45.73503,923.3136,"02/07/2019","17:59","Dinheiro",8.613,8.2
+"976","883-69-1285","B","Mandalay","Membro","Masculino","Acessórios de moda",265.0752,2,26.50752,535.1424,"03/06/2019","11:55","Cartão de crédito",4.992,7
+"977","221-25-5073","A","Yangon","Normal","Feminino","Acessórios de moda",396.4446,4,79.28892,1600.7104,"03/04/2019","10:39","Dinheiro",14.932,8.5
+"978","518-71-6847","B","Mandalay","Membro","Masculino","Acessórios de moda",141.246,6,42.3738,855.456,"2/26/2019","15:10","Carteira eletrônica",7.98,4.9
+"979","156-20-0370","B","Mandalay","Normal","Feminino","Acessórios eletrônicos",135.1395,1,67.56975,147.8645,"03/10/2019","18:10","Cartão de crédito",12.725,5.1
+"980","151-33-7434","B","Mandalay","Normal","Feminino","Acessórios de moda",359.8587,1,179.92935,393.7437,"02/04/2019","20:43","Cartão de crédito",33.885,6.5
+"981","728-47-9078","C","Naypyitaw","Membro","Masculino","Acessórios de moda",316.4229,4,63.28458,1277.6096,"1/19/2019","12:46","Dinheiro",11.918,9.8
+"982","809-46-1866","A","Yangon","Normal","Masculino","Saúde e beleza",308.7765,4,61.7553,1246.736,"1/23/2019","17:44","Dinheiro",11.63,8.4
+"983","139-32-4183","A","Yangon","Membro","Feminino","Viagens e sports",517.6188,9,232.92846,4702.4352,"3/14/2019","14:19","Carteira eletrônica",43.866,7.4
+"984","148-41-7930","C","Naypyitaw","Normal","Masculino","Saúde e beleza",530.7876,7,185.77566,3750.4992,"1/23/2019","10:33","Dinheiro",34.986,6.1
+"985","189-40-5216","C","Naypyitaw","Normal","Masculino","Acessórios eletrônicos",511.7247,7,1791.03645,3919.3679,"01/09/2019","11:40","Dinheiro",337.295,6
+"986","374-38-5555","B","Mandalay","Normal","Feminino","Acessórios de moda",338.3001,5,845.75025,1850.7755,"02/07/2019","19:30","Carteira eletrônica",159.275,8.5
+"987","764-44-8999","B","Mandalay","Normal","Feminino","Saúde e beleza",78.3756,2,7.83756,158.2272,"2/18/2019","14:42","Carteira eletrônica",1.476,4.3
+"988","552-44-5977","B","Mandalay","Membro","Masculino","Saúde e beleza",329.22,8,131.688,2658.56,"01/03/2019","19:08","Cartão de crédito",24.8,6.2
+"989","267-62-7380","C","Naypyitaw","Membro","Masculino","Acessórios eletrônicos",437.2254,10,218.6127,4413.424,"3/29/2019","19:12","Carteira eletrônica",41.17,4.3
+"990","430-53-4718","B","Mandalay","Membro","Masculino","Saúde e beleza",400.2147,8,160.08588,3231.8656,"1/28/2019","15:46","Cartão de crédito",30.148,8.4
+"991","886-18-2897","A","Yangon","Normal","Feminino","Acessórios de moda",300.3336,5,75.0834,1515.808,"3/22/2019","19:06","Cartão de crédito",14.14,4.5
+"992","602-16-6955","B","Mandalay","Normal","Feminino","Viagens e sports",406.746,10,203.373,4105.76,"1/24/2019","18:10","Carteira eletrônica",38.3,6
+"993","745-74-0715","A","Yangon","Normal","Masculino","Acessórios eletrônicos",308.1393,2,30.81393,622.0816,"03/10/2019","20:46","Carteira eletrônica",5.803,8.8
+"994","690-01-6631","B","Mandalay","Normal","Masculino","Acessórios de moda",92.8719,10,46.43595,937.464,"2/22/2019","18:35","Carteira eletrônica",8.745,6.6
+"995","652-49-6720","C","Naypyitaw","Membro","Feminino","Acessórios eletrônicos",323.6445,1,161.82225,354.1195,"2/18/2019","11:40","Carteira eletrônica",30.475,5.9
+"996","233-67-5758","C","Naypyitaw","Normal","Masculino","Saúde e beleza",214.2585,1,107.12925,234.4335,"1/29/2019","13:46","Carteira eletrônica",20.175,6.2
+"997","303-96-2227","B","Mandalay","Normal","Feminino","Lar e estilo de vida",517.0878,10,258.5439,5219.568,"03/02/2019","17:16","Carteira eletrônica",48.69,4.4
+"998","727-02-1313","A","Yangon","Membro","Masculino","Acessórios de moda",169.0704,1,8.45352,170.6624,"02/09/2019","13:22","Dinheiro",1.592,7.7
+"999","347-56-2442","A","Yangon","Normal","Masculino","Lar e estilo de vida",349.5042,1,17.47521,352.7952,"2/22/2019","15:33","Dinheiro",3.291,4.1
+"1000","849-09-3807","A","Yangon","Membro","Feminino","Acessórios de moda",469.0854,7,164.17989,3314.5168,"2/18/2019","13:28","Dinheiro",30.919,6.6
